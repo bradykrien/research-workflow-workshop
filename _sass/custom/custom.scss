@@ -1,114 +1,89 @@
 // UW-Madison Accessible Color Scheme
-// Cardinal Red (#C5050C) as primary with careful contrast management
+// Using CSS variables for better GitHub Pages compatibility
 
-// Primary brand colors
-$uw-cardinal: #C5050C;
-$uw-white: #FFFFFF;
-$uw-black: #000000;
-$uw-charcoal: #333333;
-$uw-light-gray: #F0F0F0;
-$uw-cream: #FFB81C;
-
-// Base color overrides matching UW-Madison branding
-$body-bg-color: $uw-white;
-$body-text-color: $uw-charcoal;
-$border-color: #E0E0E0;
-
-// Navigation colors
-$nav-child-link-border-left-color: $uw-cardinal;
-$sidebar-color: $uw-light-gray;
-
-// Link colors (accessible)
-$link-color: $uw-cardinal;
-
-// Focus and hover states
-$btn-primary-color: $uw-cardinal;
-
-// Code and pre-formatted text
-$code-background-color: #F5F5F5;
-$code-text-color: $uw-charcoal;
-
-// Search box
-$search-background-color: $uw-white;
-$search-border-color: #CCC;
-
-// Table borders
-$table-border-color: #DDD;
-
-// Heading colors
-h1, h2, h3, h4, h5, h6 {
-  color: $uw-charcoal;
+:root {
+  // UW-Madison brand colors
+  --uw-cardinal: #C5050C;
+  --uw-charcoal: #333333;
+  --uw-light-gray: #F0F0F0;
+  --uw-white: #FFFFFF;
+  
+  // Override just-the-docs color variables
+  --color-text-primary: var(--uw-charcoal);
+  --color-link: var(--uw-cardinal);
+  --color-link-visited: #992608;
 }
 
-// Link hover state with visible feedback
-a {
-  color: $uw-cardinal;
-  text-decoration: none;
+// Body and general text
+body {
+  color: var(--uw-charcoal);
+  background-color: var(--uw-white);
+}
 
+// Headings
+h1, h2, h3, h4, h5, h6 {
+  color: var(--uw-charcoal);
+}
+
+// Links with focus states
+a {
+  color: var(--uw-cardinal);
+  
   &:hover {
     text-decoration: underline;
-    color: darken($uw-cardinal, 10%);
   }
-
+  
   &:focus {
-    outline: 2px solid $uw-cardinal;
+    outline: 2px solid var(--uw-cardinal);
     outline-offset: 2px;
   }
 }
 
-// Buttons with accessible contrast
-button, .btn, input[type="button"], input[type="submit"] {
-  background-color: $uw-cardinal;
-  color: $uw-white;
-  border: 1px solid darken($uw-cardinal, 15%);
-
-  &:hover {
-    background-color: darken($uw-cardinal, 10%);
-  }
-
-  &:focus {
-    outline: 2px solid darken($uw-cardinal, 15%);
-    outline-offset: 2px;
-  }
+// Sidebar
+.sidebar-nav {
+  background-color: var(--uw-light-gray);
 }
 
-// Sidebar active state
+// Active nav item
 .nav-list .nav-list-item.active > .nav-list-link {
-  color: $uw-cardinal;
-  font-weight: 600;
-  border-left: 4px solid $uw-cardinal;
+  color: var(--uw-cardinal);
+  border-left-color: var(--uw-cardinal);
 }
 
-// Code block styling
+// Code blocks with cardinal accent
 pre {
-  background-color: $uw-light-gray;
-  border: 1px solid #DDD;
-  border-left: 4px solid $uw-cardinal;
+  background-color: var(--uw-light-gray);
+  border-left: 4px solid var(--uw-cardinal);
 }
 
-// Blockquotes with accent color
+code {
+  background-color: var(--uw-light-gray);
+  color: var(--uw-charcoal);
+}
+
+// Blockquotes with cardinal accent
 blockquote {
-  border-left: 4px solid $uw-cardinal;
-  padding-left: 1rem;
+  border-left-color: var(--uw-cardinal);
   color: #555;
-  margin: 1rem 0;
 }
 
-// Tables with better readability
-table {
-  border-collapse: collapse;
+// Tables
+thead {
+  background-color: var(--uw-light-gray);
+  border-bottom: 2px solid var(--uw-cardinal);
+}
 
-  thead {
-    background-color: $uw-light-gray;
-    border-bottom: 2px solid $uw-cardinal;
-  }
+th {
+  color: var(--uw-charcoal);
+}
 
-  th {
-    color: $uw-charcoal;
-    font-weight: 600;
-  }
-
-  td {
-    border-bottom: 1px solid #DDD;
+// Buttons
+.btn-primary {
+  background-color: var(--uw-cardinal);
+  color: var(--uw-white);
+  
+  &:hover {
+    background-color: #a00409;
   }
 }
+

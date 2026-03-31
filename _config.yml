@@ -5,9 +5,14 @@ description: "A workshop on digital tools for humanities research workflows"
 remote_theme: just-the-docs/just-the-docs
 
 # just-the-docs configuration
-color_scheme: custom
+color_scheme: light
 search_enabled: true
 heading_anchors: true
+
+# UW-Madison branding overrides
+scss:
+  load_paths:
+    - _sass
 
 # Footer
 aux_links:
