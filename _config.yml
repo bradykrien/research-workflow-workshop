@@ -9,11 +9,6 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 
-# UW-Madison branding overrides
-scss:
-  load_paths:
-    - _sass
-
 # Footer
 aux_links:
   "Workshop GitHub Repo":
