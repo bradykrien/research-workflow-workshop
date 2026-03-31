@@ -13,19 +13,23 @@
 /* Link colors */
 a {
   color: var(--uw-cardinal) !important;
+  text-decoration-color: var(--uw-cardinal) !important;
 }
 
 a:visited {
   color: #992608 !important;
+  text-decoration-color: #992608 !important;
 }
 
 a:hover {
   color: #a00409 !important;
-  text-decoration: underline;
+  text-decoration: underline !important;
+  text-decoration-color: #a00409 !important;
 }
 
 a:active {
   color: #8a0308 !important;
+  text-decoration-color: #8a0308 !important;
 }
 
 /* Sidebar styling */
@@ -36,6 +40,11 @@ a:active {
 /* Navigation link colors */
 .nav-list .nav-list-item > .nav-list-link {
   color: var(--uw-charcoal) !important;
+}
+
+.nav-list .nav-list-item > .nav-list-link:hover {
+  color: var(--uw-cardinal) !important;
+  background-color: rgba(197, 5, 12, 0.1) !important;
 }
 
 /* Active nav item */
