@@ -1,0 +1,82 @@
+---
+title: Mendeley
+layout: default
+nav_order: 6
+---
+
+# Mendeley
+{: .fs-8 }
+
+An alternative citation manager for those already in the Mendeley ecosystem.
+{: .fs-5 .fw-300 }
+
+---
+
+## What this solves
+
+Same problem as Zotero — organizing sources and generating citations — but in a different tool. If you're already using Mendeley or your lab/advisor uses it, this guide will help you get more out of it.
+
+**Where it fits in the workflow:** Gather → Organize → Write & Cite
+
+---
+
+## Zotero vs. Mendeley — quick comparison
+
+| | Zotero | Mendeley |
+|:--|:-------|:---------|
+| **Cost** | Free and open-source | Free (owned by Elsevier) |
+| **Storage** | 300 MB free (for attachments) | 2 GB free |
+| **Browser extension** | Excellent — works on most sites | Mendeley Web Importer — solid but less versatile |
+| **Word processor plugin** | Word + Google Docs | Word + LibreOffice (no native Google Docs support) |
+| **Community** | Large, independent, active forums | Smaller community, Elsevier-managed support |
+| **Best for** | Humanities, social sciences, general-purpose | Sciences, Elsevier-heavy workflows |
+
+**Our recommendation:** If you're starting from scratch, Zotero is usually the stronger choice for humanities researchers. If you're already invested in Mendeley and it's working for you, keep going — the core concepts are the same.
+
+---
+
+## Get started (45-minute path)
+
+### 1. Install Mendeley (5 min)
+
+- Go to [mendeley.com/download-reference-manager](https://www.mendeley.com/download-reference-manager/) and install Mendeley Reference Manager (the desktop app)
+- Install the [Mendeley Web Importer](https://www.mendeley.com/reference-management/web-importer) browser extension
+- Sign in or create a free account
+
+### 2. Add sources (10 min)
+
+- **Web Importer:** Navigate to a journal article or book page and click the Mendeley Web Importer icon
+- **DOI import:** Click "Add" → "Add entry manually" → paste a DOI
+- **Drag and drop:** Drag a PDF directly into Mendeley — it will try to extract metadata automatically (check for accuracy)
+
+**Exercise:** Add 3–5 sources using different methods.
+
+### 3. Organize (10 min)
+
+- **Create folders:** Right-click in the left panel → "New Folder"
+- **Tag entries:** Select a source, look for the "Tags" field in the details panel
+- **Star important items** for quick access
+
+**Exercise:** Create 2 folders and organize your imported sources.
+
+### 4. Annotate PDFs (10 min)
+
+Mendeley's built-in PDF reader lets you highlight and annotate directly:
+- Open a PDF by double-clicking it
+- Use the toolbar to highlight, add sticky notes, or underline
+- Annotations are searchable and stay linked to the source
+
+**Exercise:** Open a PDF and add a few annotations.
+
+### 5. Cite in a document (10 min)
+
+- Install the Mendeley Cite plugin for Microsoft Word (look for it under Tools or in the Mendeley app settings)
+- Open Word, find the Mendeley Cite tab
+- Insert a citation, choose your style, and generate a bibliography
+
+---
+
+## Keep going
+
+- [Mendeley Guides](https://www.mendeley.com/guides) — official tutorials
+- [Mendeley Support](https://service.elsevier.com/app/home/supporthub/mendeley/) — help center

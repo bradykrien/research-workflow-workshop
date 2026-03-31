@@ -1,0 +1,19 @@
+# Site settings
+lang: en
+title: "Building Your Research Toolkit"
+description: "A workshop on digital tools for humanities research workflows"
+remote_theme: just-the-docs/just-the-docs
+
+# just-the-docs configuration
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+# Footer
+aux_links:
+  "Workshop GitHub Repo":
+    - "https://github.com/YOUR-USERNAME/YOUR-REPO-NAME"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
