@@ -1,0 +1,94 @@
+---
+# This ensures this file is processed by Jekyll
+---
+
+/* UW-Madison Branding Colors - Override just-the-docs */
+
+:root {
+  --uw-cardinal: #C5050C;
+  --uw-charcoal: #333333;
+  --uw-light-gray: #F0F0F0;
+}
+
+/* Link colors */
+a {
+  color: var(--uw-cardinal) !important;
+}
+
+a:visited {
+  color: #992608 !important;
+}
+
+/* Sidebar styling */
+.side-bar {
+  background-color: var(--uw-light-gray) !important;
+}
+
+/* Navigation link colors */
+.nav-list .nav-list-item > .nav-list-link {
+  color: var(--uw-charcoal) !important;
+}
+
+/* Active nav item */
+.nav-list .nav-list-item.active > .nav-list-link {
+  color: var(--uw-cardinal) !important;
+  border-left-color: var(--uw-cardinal) !important;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--uw-charcoal) !important;
+}
+
+/* Body text */
+body {
+  color: var(--uw-charcoal) !important;
+}
+
+/* Code blocks */
+pre {
+  background-color: var(--uw-light-gray) !important;
+  border-left: 4px solid var(--uw-cardinal) !important;
+}
+
+code {
+  background-color: var(--uw-light-gray) !important;
+  color: var(--uw-charcoal) !important;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left-color: var(--uw-cardinal) !important;
+}
+
+/* Buttons */
+.btn {
+  background-color: var(--uw-cardinal) !important;
+  color: white !important;
+}
+
+.btn:hover {
+  background-color: #a00409 !important;
+}
+
+/* Table styling */
+table thead {
+  background-color: var(--uw-light-gray) !important;
+  border-bottom: 2px solid var(--uw-cardinal) !important;
+}
+
+table th {
+  color: var(--uw-charcoal) !important;
+}
+
+/* Focus states for accessibility */
+a:focus {
+  outline: 2px solid var(--uw-cardinal) !important;
+  outline-offset: 2px !important;
+}
+
+button:focus,
+.btn:focus {
+  outline: 2px solid var(--uw-cardinal) !important;
+  outline-offset: 2px !important;
+}
