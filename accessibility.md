@@ -31,8 +31,7 @@ This workshop site is designed to be accessible to the widest possible audience,
 
 If you encounter any accessibility barriers on this site or have suggestions for improvement, please contact us:
 
-<!-- TODO: Replace with your actual contact information -->
-- **Email:** [your-email@institution.edu](mailto:your-email@institution.edu)
+- **Email:** [brady.krien@wisc.edu](mailto:brady.krien@wisc.edu)
 
 We take accessibility feedback seriously and will work to address issues promptly.
 
