@@ -3,7 +3,12 @@ lang: en
 title: "Optimize Your Research Workflow"
 description: "A workshop on digital tools for humanities research workflows"
 remote_theme: just-the-docs/just-the-docs
-
+# Enable GitHub-style alerts
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+  parse_block_html: true
 # just-the-docs configuration
 color_scheme: light
 search_enabled: true

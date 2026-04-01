@@ -20,10 +20,10 @@ Research is a lot of work. It takes a great deal of time, organization, thought,
 
 While it's less common for us to talk about research processes in the humanities and humanistic social sciences than in many STEM fields, it's worth thinking about what your research process looks like and where and how you might benefit from tweaking it or incorporating a digital tool. 
 
-> **Tip**
+> [!TIP]
 > Think about the recent research projects that you've worked on. This could be a seminar paper, part of an article, a paper for a conference, etc. Where were your biggest frustrations? 
 
-Before choosing a tool, it helps to think about *where* in the research life cycle your current processes could use some fine tuning. Most humanities research moves through a cycle something like this:
+Let's think about where in the research life cycle you'd most like to optimize your process a little bit. Every research project and process are unique but research projects in the humanities tend to follow a structure like this. 
 
 | Stage | What you're doing | Tools that help |
 |:------|:-----------------|:----------------|
