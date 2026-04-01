@@ -4,21 +4,21 @@ layout: home
 nav_order: 1
 ---
 
-# Building Your Research Toolkit
+# Optimize Your Research Workflow
 {: .fs-9 }
 
-A workshop on digital tools for humanities research workflows.
+A Research Tool Workshop for Humanists & Social Scientists
 {: .fs-6 .fw-300 }
 
 ---
 
 ## Welcome
 
-Tired of losing track of citations or struggling with archival photos? This workshop introduces essential digital tools that can save you hours of manual work — and gives you hands-on time to start using them immediately.
+Research is a lot of work. It takes a great deal of time, organization, thought, reading, writing, revision, analysis, and documentation. It's sometimes overwhelming and it's often complicated, but there are tools that can help make your research process a little bit easier and more manageable. This workshop focuses on a helping you select and get started with a digital tool that can help you do the interesting and important work that you do with less time and less stress. 
 
 ## The Research Workflow
 
-Before choosing a tool, it helps to think about *where* you are in your research process. Most humanities research moves through a cycle something like this:
+Before choosing a tool, it helps to think about *where* in the research life cycle your current processes could use some fine tuning. Most humanities research moves through a cycle something like this:
 
 | Stage | What you're doing | Tools that help |
 |:------|:-----------------|:----------------|
@@ -47,5 +47,3 @@ Pick the guide that matches the problem you most want to solve right now:
 **Part 2 (45 min):** Hands-on implementation — pick one tool, follow the getting-started guide, and start building your system. 1-on-1 support is available.
 
 ---
-
-*This site is a living resource. Bookmark it and come back anytime.*

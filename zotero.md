@@ -12,7 +12,7 @@ A free, open-source tool for collecting, organizing, and citing your research so
 
 ---
 
-## What this solves
+## What is It Good For?
 
 You're juggling PDFs in random folders, copying and pasting citation info into a Word doc, and reformatting your bibliography every time you submit to a different journal. Zotero gives you one place to store everything and handles citation formatting automatically.
 
