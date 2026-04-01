@@ -97,7 +97,7 @@ Selections let you highlight a region of a photo — useful for marking a specif
 
 - [Tropy Documentation](https://docs.tropy.org/) — official guide
 - [Tropy Community Forum](https://forums.tropy.org/) — help and discussion
-- [Programming Historian: Getting Started with Tropy](https://programminghistorian.org/en/lessons/) — look for the Tropy lesson
 - [Roy Rosenzweig Center for History and New Media](https://rrchnm.org/) — the team behind both Tropy and Zotero
+- [UW–Madison Libraries Tropy Guide](https://researchdata.wisc.edu/digital-humanities/tool-tropy/)
 
 <!-- TODO: Check if Programming Historian has published the Tropy lesson or if it's still in development -->

@@ -14,6 +14,7 @@ A free, open-source tool for collecting, organizing, and citing your research so
 
 ## What is It Good For?
 
+Zotero provides a couple of useful features. First, it makes it easy to **collect, organize, and store** research materials like 
 You're juggling PDFs in random folders, copying and pasting citation info into a Word doc, and reformatting your bibliography every time you submit to a different journal. Zotero gives you one place to store everything and handles citation formatting automatically.
 
 **Where it fits in the workflow:** Gather → Organize → Write & Cite
@@ -91,6 +92,6 @@ Click the green "+" button, choose the item type (book, journal article, etc.), 
 - [Zotero Quick Start Guide](https://www.zotero.org/support/quick_start_guide) — official walkthrough
 - [Zotero Documentation](https://www.zotero.org/support/) — comprehensive reference
 - [Zotero Forums](https://forums.zotero.org/) — active community for troubleshooting
-- [Zotero YouTube Channel](https://www.youtube.com/@ZoteroReferenceManager) — video tutorials
+- [UW–Madison Libraries Zotero Guide](https://www.library.wisc.edu/research-support/collecting-organizing-analyzing-information/citation-managers/zotero/)
 
 <!-- TODO: Add link to your institution's Zotero guide if your library has one -->
