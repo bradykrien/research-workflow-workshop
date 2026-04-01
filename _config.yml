@@ -4,6 +4,9 @@ title: "Building Your Research Toolkit"
 description: "A workshop on digital tools for humanities research workflows"
 remote_theme: just-the-docs/just-the-docs
 
+# Favicon
+favicon: "/assets/images/favicon.svg"
+
 # just-the-docs configuration
 color_scheme: light
 search_enabled: true
