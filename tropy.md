@@ -24,6 +24,7 @@ You came back from the archive with 600 photos on your phone or camera. They hav
 
 ### 1. Install Tropy (3 min)
 
+Tropy is a desktop application, which means that you have to install it and run it locally on your machine. 
 - Go to [tropy.org](https://tropy.org/) and download the version for your operating system
 - Install and open it
 
