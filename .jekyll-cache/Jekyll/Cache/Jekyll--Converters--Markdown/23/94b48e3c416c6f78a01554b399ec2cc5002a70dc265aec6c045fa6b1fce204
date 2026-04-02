@@ -1,0 +1,40 @@
+I"�	<h1 class="fs-8" id="accessibility-statement">Accessibility Statement</h1>
+
+<hr />
+
+<h2 id="our-commitment">Our commitment</h2>
+
+<p>This workshop site is designed to be accessible to the widest possible audience, including people who use assistive technologies. We aim to conform to the <a href="https://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines (WCAG) 2.1</a> at Level AA.</p>
+
+<h2 id="features-of-this-site">Features of this site</h2>
+
+<ul>
+  <li><strong>Semantic HTML structure:</strong> Pages use proper heading hierarchy, landmarks, and HTML elements to support screen readers and keyboard navigation.</li>
+  <li><strong>Keyboard navigation:</strong> All content and links are reachable via keyboard. The site theme includes a skip-to-content link and supports standard tab navigation.</li>
+  <li><strong>Text-based content:</strong> Guides are written in plain text and Markdown, avoiding reliance on images or visual-only cues to convey information.</li>
+  <li><strong>Readable typography:</strong> The site uses a legible font stack with adequate size and spacing. Text reflows at different screen sizes.</li>
+  <li><strong>Descriptive link text:</strong> Links describe their destination rather than using generic phrases like “click here.”</li>
+  <li><strong>Sufficient color contrast:</strong> The site theme meets WCAG AA contrast requirements for text and interactive elements.</li>
+</ul>
+
+<h2 id="known-limitations">Known limitations</h2>
+
+<ul>
+  <li><strong>External tools:</strong> The software tools described on this site (Zotero, Tropy, BrowZine, Mendeley, Google Scholar) have their own accessibility profiles, which vary. We encourage you to consult each tool’s documentation for information about their accessibility support.</li>
+  <li><strong>External links:</strong> We link to third-party documentation and resources whose accessibility is outside our control.</li>
+</ul>
+
+<h2 id="feedback">Feedback</h2>
+
+<p>If you encounter any accessibility barriers on this site or have suggestions for improvement, please contact us:</p>
+
+<ul>
+  <li><strong>Email:</strong> <a href="mailto:brady.krien@wisc.edu">brady.krien@wisc.edu</a></li>
+</ul>
+
+<p>We take accessibility feedback seriously and will work to address issues promptly.</p>
+
+<h2 id="standards-reference">Standards reference</h2>
+
+<p>This statement was last updated in 2026. We reference the following standard: <a href="https://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines (WCAG) 2.1, Level AA</a>.</p>
+:ET

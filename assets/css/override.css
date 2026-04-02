@@ -8,6 +8,27 @@
   flex-direction: column;
 }
 
+.sidebar-nav::before {
+  content: "";
+  display: block;
+  width: 220px;
+  height: 80px;
+  margin: 0.5rem auto 0.3rem;
+  background-image: url('/assets/DIGISCHOLI_color-flush.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.sidebar-nav::after {
+  content: "\A This site uses Just the Docs, a documentation theme for Jekyll.";
+  white-space: pre-wrap;
+  font-size: 0.78rem;
+  color: #666;
+  margin: 0.35rem 0.8rem 0.65rem;
+  line-height: 1.25;
+}
+
 .sidebar-nav .site-title,
 .sidebar-nav .site-header {
   padding: 1.2rem 1rem 1rem;
