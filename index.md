@@ -39,11 +39,11 @@ No single tool covers everything. The goal today is to **identify one stage wher
 
 Pick the guide that matches the problem you most want to solve right now:
 
-- **[Literature Monitoring](https://bradykrien.github.io/literature-monitoring})** — *"I never know when new work comes out in my field."*
-- **[Tropy](https://bradykrien.github.io/tropy)** — *"I have hundreds of archival photos and no way to find anything."*
-- **[Zotero](https://bradykrien.github.io/zotero)** — *"I need a better system for collecting, organizing, and citing sources."*
-- **[Mendeley](https://bradykrien.github.io/mendeley)** — *"I already use Mendeley and want to get more out of it."*
-- **[AI in Research](https://bradykrien.github.io/ai-in-research)** — *"I want to understand where AI fits (and doesn't fit) in my work."*
+- **[Literature Monitoring](https://bradykrien.github.io/research-workflow-workshop/literature-monitoring)** — *"I never know when new work comes out in my field."*
+- **[Tropy](https://bradykrien.github.io/research-workflow-workshop/tropy)** — *"I have hundreds of archival photos and no way to find anything."*
+- **[Zotero](https://bradykrien.github.io/research-workflow-workshop/zotero)** — *"I need a better system for collecting, organizing, and citing sources."*
+- **[Mendeley](https://bradykrien.github.io/research-workflow-workshop/mendeley)** — *"I already use Mendeley and want to get more out of it."*
+- **[AI in Research](https://bradykrien.github.io/research-workflow-workshop/ai-in-research)** — *"I want to understand where AI fits (and doesn't fit) in my work."*
 
 
 ## Workshop Format
