@@ -50,6 +50,10 @@ a {
   border-left-color: var(--uw-cardinal);
 }
 
+.nav-list-link:hover {
+  color: #8C182A !important;
+}
+
 // Code blocks with cardinal accent
 pre {
   background-color: var(--uw-light-gray);

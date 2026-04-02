@@ -2,6 +2,7 @@
 lang: en
 title: "Optimize Your Research Workflow"
 description: "A workshop on digital tools for humanities research workflows"
+baseurl: "/research-workflow-workshop"
 remote_theme: just-the-docs/just-the-docs
 # Enable GitHub-style alerts
 kramdown:

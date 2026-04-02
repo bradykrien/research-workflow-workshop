@@ -1,3 +1,11 @@
+
 .nav-list-link:hover {
   color: #8C182A !important;
+}
+
+.unit-wordmark {
+  max-width: 80%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
 }

@@ -4,7 +4,7 @@
 <link rel="icon" type="image/png" href="{{ png_fallback }}">
 <link rel="shortcut icon" href="{{ favicon_url }}">
 <link rel="apple-touch-icon" href="{{ png_fallback }}">
-<link rel="stylesheet" href="{{ '/assets/css/override.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/override.css' | relative_url | append: '?v=' | append: site.time | date: '%s' }}">
 <script>
   (function() {
     var setIcon = function(url) {
