@@ -12,8 +12,9 @@ Artificial Intelligence tools offer a lot of opportunities for helping with rese
 
 ---
 
-## What this page covers
+## Getting Started
 
+Keeping up with news in the world of AI can feel like a rather overwhelming task. 
 This isn't a getting-started guide for a single tool. Instead, it's a framework for thinking about how AI fits into your research process — what it can do well, what it can't, and what principles should guide your decisions.
 
 There are a wide variety of AI-based research tools, many of which are not based on Large Language Models (LLMs) like ChatGPT or Claude. Examples include optical character recognition (OCR) and transcription tools that can convert images of text or speech to word files. 
