@@ -4,7 +4,35 @@
   width: 320px;
   overflow-x: hidden;
   padding-right: 0.7rem;
-  display: block;
+  position: relative;
+  padding-top: 160px;
+}
+
+.sidebar-nav::before,
+.sidebar-nav::after {
+  content: none;
+}
+
+.sidebar-nav .logo-container {
+  position: absolute;
+  top: 0.2rem;
+  left: 0;
+  right: 0;
+  text-align: center;
+  padding: 0.5rem 0;
+  margin: 0 auto 0.5rem;
+  background: transparent;
+}
+
+.sidebar-nav .logo-container img {
+  max-width: 220px;
+  width: auto;
+}
+
+.sidebar-nav .nav-list,
+.sidebar-nav .nav ul {
+  margin-top: 0;
+  padding-top: 0;
 }
 
 /* Ensure the title in the first sidebar panel has breathing room */
