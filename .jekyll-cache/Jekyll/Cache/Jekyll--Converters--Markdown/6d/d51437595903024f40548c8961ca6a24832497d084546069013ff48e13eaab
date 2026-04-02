@@ -1,4 +1,4 @@
-<h1 class="fs-9" id="optimize-your-research-workflow">Optimize Your Research Workflow</h1>
+I"�<h1 class="fs-9" id="optimize-your-research-workflow">Optimize Your Research Workflow</h1>
 
 <p class="fs-6 fw-300">A Research Tool Workshop for Humanists &amp; Social Scientists</p>
 
@@ -63,11 +63,11 @@ Think about the recent research projects that you’ve worked on. This could be 
 <p>Pick the guide that matches the problem you most want to solve right now:</p>
 
 <ul>
-  <li><strong><a href="https://bradykrien.github.io/literature-monitoring}">Literature Monitoring</a></strong> — <em>“I never know when new work comes out in my field.”</em></li>
-  <li><strong><a href="https://bradykrien.github.io/tropy">Tropy</a></strong> — <em>“I have hundreds of archival photos and no way to find anything.”</em></li>
-  <li><strong><a href="https://bradykrien.github.io/zotero">Zotero</a></strong> — <em>“I need a better system for collecting, organizing, and citing sources.”</em></li>
-  <li><strong><a href="https://bradykrien.github.io/mendeley">Mendeley</a></strong> — <em>“I already use Mendeley and want to get more out of it.”</em></li>
-  <li><strong><a href="https://bradykrien.github.io/ai-in-research">AI in Research</a></strong> — <em>“I want to understand where AI fits (and doesn’t fit) in my work.”</em></li>
+  <li><strong><a href="https://bradykrien.github.io/research-workflow-workshop/literature-monitoring}">Literature Monitoring</a></strong> — <em>“I never know when new work comes out in my field.”</em></li>
+  <li><strong><a href="/research-workflow-workshop/tropy.html">Tropy</a></strong> — <em>“I have hundreds of archival photos and no way to find anything.”</em></li>
+  <li><strong><a href="/research-workflow-workshop/zotero.html">Zotero</a></strong> — <em>“I need a better system for collecting, organizing, and citing sources.”</em></li>
+  <li><strong><a href="/research-workflow-workshop/mendeley.html">Mendeley</a></strong> — <em>“I already use Mendeley and want to get more out of it.”</em></li>
+  <li><strong><a href="/research-workflow-workshop/ai-in-research.html">AI in Research</a></strong> — <em>“I want to understand where AI fits (and doesn’t fit) in my work.”</em></li>
 </ul>
 
 <h2 id="workshop-format">Workshop Format</h2>
@@ -77,3 +77,4 @@ Think about the recent research projects that you’ve worked on. This could be 
 <p><strong>Part 2 (45 min):</strong> Hands-on implementation — pick one tool, follow the getting-started guide, and start building your system. 1-on-1 support is available.</p>
 
 <hr />
+:ET
