@@ -34,6 +34,11 @@
       img.className = 'unit-wordmark';
       img.setAttribute('role', 'img');
       container.appendChild(img);
+
+      var ack = document.createElement('p');
+      ack.className = 'just-the-docs-ack';
+      ack.innerHTML = 'This site uses <a href="https://pmarsceill.github.io/just-the-docs/" target="_blank" rel="noopener noreferrer">Just the Docs</a>, a documentation theme for Jekyll.';
+      container.appendChild(ack);
     }
 
     // Candidate selectors used by just-the-docs theme for the sidebar header
