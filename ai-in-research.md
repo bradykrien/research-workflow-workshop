@@ -27,11 +27,12 @@ AI tools (large language models like ChatGPT, Claude, Gemini, and others) can su
 
 | Stage | Possible AI uses | Caution level |
 |:------|:----------------|:--------------|
-| **Discover** | Brainstorming search terms, suggesting adjacent fields to explore | Low — useful for expanding your horizon |
-| **Gather** | Summarizing articles to decide what's worth reading closely | Medium — summaries can miss nuance or fabricate details |
+| **Search** | Brainstorming search terms, suggesting adjacent fields to explore | Low — useful for expanding your horizon |
+| **Collect** | Summarizing articles to decide what's worth reading closely | Medium — summaries can miss nuance or fabricate details |
 | **Organize** | Drafting tag taxonomies, suggesting organizational structures | Low — you're still making the decisions |
-| **Analyze** | Exploring patterns in text, generating initial codes for qualitative data | High — requires careful validation against sources |
-| **Write** | Drafting, editing, overcoming writer's block, checking translations | Medium to High — depends on how you use the output |
+| **Read & Analyze** | Exploring patterns in text, generating initial codes for qualitative data | High — requires careful validation against sources |
+| **Write & Cite** | Drafting, editing, overcoming writer's block, checking translations | Medium to High — depends on how you use the output |
+
 
 ---
 

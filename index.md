@@ -27,10 +27,10 @@ Let's think about where in the research life cycle you'd most like to optimize y
 
 | Stage | What you're doing | Tools that help |
 |:------|:-----------------|:----------------|
-| **Discover** | Finding new sources, staying current with the literature | BrowZine, Google Scholar Alerts |
-| **Gather** | Collecting sources, photographing archival materials | Tropy, Zotero browser extension |
+| **Search** | Finding new sources, staying current with the literature | BrowZine, Google Scholar Alerts |
+| **Collect** | Collecting sources, photographing archival materials | Tropy, Zotero browser extension |
 | **Organize** | Tagging, annotating, building a personal archive | Tropy, Zotero collections & tags |
-| **Analyze** | Reading, note-taking, making connections | Zotero notes, AI-assisted tools |
+| **Read & Analyze** | Reading, note-taking, making connections | Zotero notes, AI-assisted tools |
 | **Write & Cite** | Drafting, inserting citations, building bibliographies | Zotero word processor plugin |
 
 No single tool covers everything. The goal today is to **identify one stage where you feel the most friction** and start building a system for it.
