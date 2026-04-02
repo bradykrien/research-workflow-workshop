@@ -33,11 +33,23 @@
       img.alt = altText;
       img.className = 'unit-wordmark';
       img.setAttribute('role', 'img');
-      container.appendChild(img);
 
       var ack = document.createElement('p');
       ack.className = 'just-the-docs-ack';
       ack.innerHTML = 'This site uses <a href="https://pmarsceill.github.io/just-the-docs/" target="_blank" rel="noopener noreferrer">Just the Docs</a>, a documentation theme for Jekyll.';
+
+      // If the container is the sidebar wrapper, insert logo + acknowledgment near top.
+      if (container.classList && container.classList.contains('sidebar-nav')) {
+        var titleEl = container.querySelector('.site-title') || container.querySelector('.site-header');
+        if (titleEl && !titleEl.querySelector('.unit-wordmark')) {
+          titleEl.insertAdjacentElement('afterend', img);
+          titleEl.insertAdjacentElement('afterend', ack);
+          return;
+        }
+      }
+
+      // Fallback: append at end of container.
+      container.appendChild(img);
       container.appendChild(ack);
     }
 
