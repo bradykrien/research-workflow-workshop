@@ -28,6 +28,18 @@
 
     function createAndInsertWordmark(container) {
       if (!container || container.querySelector('.unit-wordmark')) return;
+
+      // If there's an existing footer logo container, move it toward the top.
+      var existingLogoContainer = document.querySelector('.logo-container');
+      if (existingLogoContainer && !container.contains(existingLogoContainer)) {
+        existingLogoContainer.classList.add('force-top');
+      }
+
+      var titleEl = container.querySelector('.site-title') || container.querySelector('.site-header');
+      if (existingLogoContainer && titleEl) {
+        titleEl.insertAdjacentElement('afterend', existingLogoContainer);
+      }
+
       var img = document.createElement('img');
       img.src = logoUrl;
       img.alt = altText;
@@ -38,14 +50,10 @@
       ack.className = 'just-the-docs-ack';
       ack.innerHTML = 'This site uses <a href="https://pmarsceill.github.io/just-the-docs/" target="_blank" rel="noopener noreferrer">Just the Docs</a>, a documentation theme for Jekyll.';
 
-      // If the container is the sidebar wrapper, insert logo + acknowledgment near top.
-      if (container.classList && container.classList.contains('sidebar-nav')) {
-        var titleEl = container.querySelector('.site-title') || container.querySelector('.site-header');
-        if (titleEl && !titleEl.querySelector('.unit-wordmark')) {
-          titleEl.insertAdjacentElement('afterend', img);
-          titleEl.insertAdjacentElement('afterend', ack);
-          return;
-        }
+      if (titleEl) {
+        titleEl.insertAdjacentElement('afterend', ack);
+        titleEl.insertAdjacentElement('afterend', img);
+        return;
       }
 
       // Fallback: append at end of container.
