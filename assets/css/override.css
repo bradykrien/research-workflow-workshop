@@ -4,8 +4,15 @@
   width: 320px;
   overflow-x: hidden;
   padding-right: 0.7rem;
-  display: flex;
-  flex-direction: column;
+  display: block;
+}
+
+/* Ensure the title in the first sidebar panel has breathing room */
+.sidebar-nav .site-title,
+.sidebar-nav .site-header {
+  margin-top: 1rem !important;
+  margin-bottom: 0.4rem !important;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
 }
 
 .sidebar-nav::before {
