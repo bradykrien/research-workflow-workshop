@@ -7,7 +7,7 @@ nav_order: 5
 # AI in the Research Workflow
 {: .fs-8 }
 
-Understanding where AI tools can support humanistic research — and where caution is warranted.
+Artificial Intelligence tools offer a lot of opportunities for helping with research. They also come with complicated risks. Understanding how and when to use these tools and creating a plan can help you research on the cutting edge without going over the edge. 
 {: .fs-5 .fw-300 }
 
 ---

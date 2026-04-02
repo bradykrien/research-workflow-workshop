@@ -1,7 +1,9 @@
 {%- assign favicon_url = ("/favicon.svg" | relative_url) | append: "?v=" | append: site.time | date: '%s' -%}
+{%- assign png_fallback = ("/assets/DIGISCHOLI_color-flush.png" | relative_url) -%}
 <link rel="icon" type="image/svg+xml" href="{{ favicon_url }}">
+<link rel="icon" type="image/png" href="{{ png_fallback }}">
 <link rel="shortcut icon" href="{{ favicon_url }}">
-<link rel="apple-touch-icon" href="{{ favicon_url }}">
+<link rel="apple-touch-icon" href="{{ png_fallback }}">
 <link rel="stylesheet" href="{{ '/assets/css/override.css' | relative_url }}">
 <script>
   (function() {
@@ -19,35 +21,47 @@
     };
     setIcon("{{ favicon_url }}");
 
-    // Insert unit wordmark/logo under the site title in the sidebar
-    var insertWordmark = function() {
-      var logoUrl = "{{ '/assets/DIGISCHOLI_color-flush.png' | relative_url }}";
-      var altText = "Unit wordmark";
+    // Insert unit wordmark/logo under the site title in the sidebar.
+    // Use a MutationObserver to wait for the theme to render the sidebar.
+    var logoUrl = "{{ '/assets/DIGISCHOLI_color-flush.png' | relative_url }}";
+    var altText = "DIGISCHOLI wordmark";
 
-      // Try a few selectors for different theme versions
-      var header = document.querySelector('.sidebar-nav .site-title') ||
-                   document.querySelector('.sidebar-nav .site-header') ||
-                   document.querySelector('.site-header') ||
-                   document.querySelector('.site-title');
-      if (!header) return;
-
-      // Don't add if already present
-      if (header.querySelector('.unit-wordmark')) return;
-
+    function createAndInsertWordmark(container) {
+      if (!container || container.querySelector('.unit-wordmark')) return;
       var img = document.createElement('img');
       img.src = logoUrl;
       img.alt = altText;
       img.className = 'unit-wordmark';
       img.setAttribute('role', 'img');
+      container.appendChild(img);
+    }
 
-      // Insert after the site title text
-      header.appendChild(img);
-    };
+    // Candidate selectors used by just-the-docs theme for the sidebar header
+    var selectors = [
+      '.sidebar-nav .site-header',
+      '.sidebar-nav .site-title',
+      '.site-header',
+      '.site-title'
+    ];
 
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', insertWordmark);
-    } else {
-      insertWordmark();
+    function tryInsert() {
+      for (var i = 0; i < selectors.length; i++) {
+        var el = document.querySelector(selectors[i]);
+        if (el) {
+          createAndInsertWordmark(el);
+          return true;
+        }
+      }
+      return false;
+    }
+
+    if (!tryInsert()) {
+      var observer = new MutationObserver(function(mutations, obs) {
+        if (tryInsert()) {
+          obs.disconnect();
+        }
+      });
+      observer.observe(document.documentElement || document.body, { childList: true, subtree: true });
     }
   })();
 </script>

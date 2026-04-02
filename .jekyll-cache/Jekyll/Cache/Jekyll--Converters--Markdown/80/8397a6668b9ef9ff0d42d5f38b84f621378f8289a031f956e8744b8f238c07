@@ -1,0 +1,80 @@
+I"�<h1 class="fs-9" id="optimize-your-research-workflow">Optimize Your Research Workflow</h1>
+
+<p class="fs-6 fw-300">A Research Tool Workshop for Humanists &amp; Social Scientists</p>
+
+<hr />
+
+<h2 id="welcome">Welcome</h2>
+
+<p>Research is a lot of work. It takes a great deal of time, organization, thought, reading, writing, revision, analysis, and documentation. It’s sometimes overwhelming and it’s often complicated, but there are tools that can help make your research process a little bit easier and more manageable. This workshop focuses on a helping you select and get started with a digital tool that can help you do the interesting and important work that you do with less time and less stress.</p>
+
+<h2 id="the-research-workflow">The Research Workflow</h2>
+
+<p>While it’s less common for us to talk about research processes in the humanities and humanistic social sciences than in many STEM fields, it’s worth thinking about what your research process looks like and where and how you might benefit from tweaking it or incorporating a digital tool.</p>
+
+<blockquote>
+  <p><strong>REFLECT</strong>
+Think about the recent research projects that you’ve worked on. This could be a seminar paper, part of an article, a paper for a conference, etc. Where were your biggest frustrations?</p>
+</blockquote>
+
+<p>Let’s think about where in the research life cycle you’d most like to optimize your process a little bit. Every research project and process are unique but research projects in the humanities tend to follow a structure like this.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Stage</th>
+      <th style="text-align: left">What you’re doing</th>
+      <th style="text-align: left">Tools that help</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><strong>Discover</strong></td>
+      <td style="text-align: left">Finding new sources, staying current with the literature</td>
+      <td style="text-align: left">BrowZine, Google Scholar Alerts</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>Gather</strong></td>
+      <td style="text-align: left">Collecting sources, photographing archival materials</td>
+      <td style="text-align: left">Tropy, Zotero browser extension</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>Organize</strong></td>
+      <td style="text-align: left">Tagging, annotating, building a personal archive</td>
+      <td style="text-align: left">Tropy, Zotero collections &amp; tags</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>Analyze</strong></td>
+      <td style="text-align: left">Reading, note-taking, making connections</td>
+      <td style="text-align: left">Zotero notes, AI-assisted tools</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>Write &amp; Cite</strong></td>
+      <td style="text-align: left">Drafting, inserting citations, building bibliographies</td>
+      <td style="text-align: left">Zotero word processor plugin</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>No single tool covers everything. The goal today is to <strong>identify one stage where you feel the most friction</strong> and start building a system for it.</p>
+
+<h2 id="choose-your-path">Choose Your Path</h2>
+
+<p>Pick the guide that matches the problem you most want to solve right now:</p>
+
+<ul>
+  <li><strong><a href="/zotero.html">Zotero</a></strong> — <em>“I need a better system for collecting, organizing, and citing sources.”</em></li>
+  <li><strong><a href="/tropy.html">Tropy</a></strong> — <em>“I have hundreds of archival photos and no way to find anything.”</em></li>
+  <li><strong><a href="/literature-monitoring.html">Literature Monitoring</a></strong> — <em>“I never know when new work comes out in my field.”</em></li>
+  <li><strong><a href="/ai-in-research.html">AI in Research</a></strong> — <em>“I want to understand where AI fits (and doesn’t fit) in my work.”</em></li>
+  <li><strong><a href="/mendeley.html">Mendeley</a></strong> — <em>“I already use Mendeley and want to get more out of it.”</em></li>
+</ul>
+
+<h2 id="workshop-format">Workshop Format</h2>
+
+<p><strong>Part 1 (45 min):</strong> Presentation — we’ll walk through the research workflow framework, see each tool in action, and discuss how AI fits into humanistic research.</p>
+
+<p><strong>Part 2 (45 min):</strong> Hands-on implementation — pick one tool, follow the getting-started guide, and start building your system. 1-on-1 support is available.</p>
+
+<hr />
+:ET

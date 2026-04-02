@@ -1,0 +1,104 @@
+I"�<h1 class="fs-8" id="zotero">Zotero</h1>
+
+<p class="fs-5 fw-300">A free, open-source tool for collecting, organizing, and citing your research sources.</p>
+
+<hr />
+
+<h2 id="what-is-it-good-for">What is It Good For?</h2>
+
+<p>Zotero provides a couple of useful features. First, it makes it easy to <strong>collect, organize, and store</strong> research materials like 
+You’re juggling PDFs in random folders, copying and pasting citation info into a Word doc, and reformatting your bibliography every time you submit to a different journal. Zotero gives you one place to store everything and handles citation formatting automatically.</p>
+
+<p><strong>Where it fits in the workflow:</strong> Gather → Organize → Write &amp; Cite</p>
+
+<hr />
+
+<h2 id="get-started-45-minute-path">Get started (45-minute path)</h2>
+
+<h3 id="1-install-zotero-5-min">1. Install Zotero (5 min)</h3>
+
+<ul>
+  <li>Go to <a href="https://www.zotero.org/download/">zotero.org/download</a> and install <strong>Zotero 7</strong> (the desktop app)</li>
+  <li>Install the <strong>Zotero Connector</strong> for your browser (Chrome, Firefox, Edge, or Safari)</li>
+  <li>Create a free account at <a href="https://www.zotero.org/user/register">zotero.org/user/register</a> — this enables syncing across devices</li>
+</ul>
+
+<h3 id="2-explore-the-interface-5-min">2. Explore the interface (5 min)</h3>
+
+<p>When you open Zotero, you’ll see three panels:</p>
+<ul>
+  <li><strong>Left panel:</strong> Your library and collections (think of these like playlists — a source can live in multiple collections)</li>
+  <li><strong>Middle panel:</strong> The items in whatever collection you’ve selected</li>
+  <li><strong>Right panel:</strong> Details and metadata for the selected item</li>
+</ul>
+
+<p>Take a moment to look around. Notice the toolbar at the top — you’ll use the green “+” button and the magic wand icon shortly.</p>
+
+<h3 id="3-add-your-first-sources-10-min">3. Add your first sources (10 min)</h3>
+
+<p>Try all three methods:</p>
+
+<p><strong>Method A — Browser Connector (recommended for most things):</strong>
+Navigate to a journal article, book page, or library catalog entry in your browser. Click the Zotero Connector icon in your toolbar. Zotero grabs the citation data (and often the PDF) automatically.</p>
+
+<p><strong>Method B — Magic Wand (ISBN/DOI/PMID):</strong>
+Click the magic wand icon in Zotero’s toolbar, paste in a DOI or ISBN, and press Enter. Zotero looks up the metadata and creates an entry.</p>
+
+<p><strong>Method C — Manual entry:</strong>
+Click the green “+” button, choose the item type (book, journal article, etc.), and fill in the fields. Use this as a last resort.</p>
+
+<p><strong>Exercise:</strong> Add 3–5 sources from your current project using at least two of the methods above.</p>
+
+<h3 id="4-organize-with-collections-and-tags-10-min">4. Organize with collections and tags (10 min)</h3>
+
+<ul>
+  <li><strong>Create a collection:</strong> Right-click “My Library” → “New Collection.” Name it after your current project, a course, or a chapter.</li>
+  <li><strong>Drag items</strong> into your collection. Remember: this doesn’t move them out of your main library — it’s like a playlist.</li>
+  <li><strong>Add tags:</strong> Select an item, look for the “Tags” tab in the right panel. Add a few tags that make sense for your research (e.g., “methods,” “primary source,” “to-read”).</li>
+</ul>
+
+<p><strong>Exercise:</strong> Create 2 collections and tag the sources you just added.</p>
+
+<h3 id="5-cite-in-a-document-10-min">5. Cite in a document (10 min)</h3>
+
+<ul>
+  <li>Open a Word or Google Doc</li>
+  <li>In Word: look for the “Zotero” tab in the ribbon. In Google Docs: go to Extensions → Zotero → show Zotero toolbar</li>
+  <li>Click “Add/Edit Citation,” choose a citation style (e.g., Chicago, MLA, APA), and search for one of your sources</li>
+  <li>At the end of your document, click “Add/Edit Bibliography” to generate a formatted bibliography</li>
+</ul>
+
+<p><strong>Exercise:</strong> Create a test document with at least 2 in-text citations and a bibliography.</p>
+
+<h3 id="6-set-up-syncing-5-min">6. Set up syncing (5 min)</h3>
+
+<ul>
+  <li>Go to Zotero → Settings → Sync (on Mac: Zotero → Preferences → Sync)</li>
+  <li>Sign in with the account you created in Step 1</li>
+  <li>Check “Sync automatically”</li>
+  <li>Note: free accounts include 300 MB of file storage. This is for PDFs and attachments — the citation metadata itself doesn’t count toward the limit.</li>
+</ul>
+
+<hr />
+
+<h2 id="tips-for-long-term-success">Tips for long-term success</h2>
+
+<ul>
+  <li><strong>Use the Connector constantly.</strong> Whenever you find a useful source, click the button. It takes 2 seconds and your future self will thank you.</li>
+  <li><strong>Don’t over-organize early.</strong> A few broad collections and some tags is plenty to start. You can restructure later without losing anything.</li>
+  <li><strong>Explore Zotero groups</strong> for collaborative projects — everyone in a group shares a library.</li>
+</ul>
+
+<hr />
+
+<h2 id="keep-going">Keep going</h2>
+
+<ul>
+  <li><a href="https://www.zotero.org/support/quick_start_guide">Zotero Quick Start Guide</a> — official walkthrough</li>
+  <li><a href="https://www.zotero.org/support/">Zotero Documentation</a> — comprehensive reference</li>
+  <li><a href="https://forums.zotero.org/">Zotero Forums</a> — active community for troubleshooting</li>
+  <li><a href="https://www.library.wisc.edu/research-support/collecting-organizing-analyzing-information/citation-managers/zotero/">UW–Madison Libraries Zotero Guide</a></li>
+</ul>
+
+<!-- TODO: Add link to your institution's Zotero guide if your library has one -->
+:ET
