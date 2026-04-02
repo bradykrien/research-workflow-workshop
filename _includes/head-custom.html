@@ -50,10 +50,16 @@
     ];
 
     function tryInsert() {
+      var container = document.querySelector('.sidebar-nav') || document.querySelector('.site-sidebar');
+      if (container && !container.querySelector('.unit-wordmark')) {
+        createAndInsertWordmark(container);
+        return true;
+      }
+
       for (var i = 0; i < selectors.length; i++) {
         var el = document.querySelector(selectors[i]);
         if (el) {
-          createAndInsertWordmark(el);
+          createAndInsertWordmark(el.parentNode || el);
           return true;
         }
       }
