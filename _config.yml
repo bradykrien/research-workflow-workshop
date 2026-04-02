@@ -2,7 +2,6 @@
 lang: en
 title: "Optimize Your Research Workflow"
 description: "A workshop on digital tools for humanities research workflows"
-logo: "/assets/DIGISCHOLI_color-flush.png"
 remote_theme: just-the-docs/just-the-docs
 # Enable GitHub-style alerts
 kramdown:
