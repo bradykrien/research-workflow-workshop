@@ -7,7 +7,7 @@ nav_order: 2
 # Literature Monitoring
 {: .fs-8 }
 
-Research moves fast. Stay current with new research in your field using BrowZine and Google Scholar Alerts.
+Research moves fast. Stay current with new research in your field using BrowZine and/or Google Scholar Alerts.
 {: .fs-5 .fw-300 }
 
 ---

@@ -14,9 +14,9 @@ A free, open-source tool for organizing and describing your archival research ph
 
 ## What is It Good For?
 
-You came back from the archive with 600 photos on your phone or camera. They have meaningless filenames like `IMG_4392.jpg`. You sort of remember what's in them, but finding that one letter from 1847 means scrolling through hundreds of images. Tropy lets you organize, describe, and annotate those photos so you can actually *find* things.
+Trying to keep track of archival materials can be a challenge. You came back from the archive with 600 photos on your phone or camera. They have meaningless filenames like `IMG_4392.jpg`. You sort of remember what's in them, but finding that one letter from 1847 means scrolling through hundreds of images. Tropy lets you organize, describe, and annotate those photos so you can actually *find* things.
 
-**Where it fits in the workflow:** Gather → Organize → Analyze
+**Where it fits in the workflow:** Search → Collect → Organize → Read & Analyze → Write & Cite
 
 ---
 
@@ -24,7 +24,7 @@ You came back from the archive with 600 photos on your phone or camera. They hav
 
 ### 1. Install Tropy (3 min)
 
-Tropy is a desktop application, which means that you have to install it and run it locally on your machine. 
+Tropy is a desktop application, which means that you have to install it and run it locally on your machine rather than accessing it through an internet browser. 
 - Go to [tropy.org](https://tropy.org/) and download the version for your operating system
 - Install and open it
 
@@ -32,14 +32,14 @@ Tropy is a desktop application, which means that you have to install it and run 
 
 - Go to File → New → Project
 - Name it after your research project or the archive you visited
-- Choose where to save the project file (`.tpy`) — keep it somewhere you won't lose it
+- Choose where to save the project file (`.tpy`)—keep it somewhere you won't lose it
 
 **Key concept:** A Tropy project is a database that *points to* your photos. It doesn't move or copy the photos themselves. So make sure your photos are in a stable location before you start (don't leave them on a USB drive you might unplug).
 
 ### 3. Import photos (5 min)
 
 - Drag and drop a folder of photos into Tropy, or go to File → Import → Photos
-- Start with a manageable batch — 20–30 images is plenty for today
+- Start with a manageable batch—20–30 images is plenty for today
 
 **Note:** If you don't have archival photos handy, download a small set of sample images from a digital archive like the [Library of Congress Digital Collections](https://www.loc.gov/collections/) or [Internet Archive](https://archive.org/).
 
@@ -48,7 +48,7 @@ Tropy is a desktop application, which means that you have to install it and run 
 This is Tropy's most important concept:
 
 - A **photo** is a single image file
-- An **item** is a *thing* in the archive — a letter, a diary entry, a document — that might span multiple photos
+- An **item** is a *thing* in the archive—a letter, a diary entry, a document—that might span multiple photos
 
 If you photographed a 4-page letter, that's 4 photos but 1 item. To merge photos into one item:
 - Select the photos in the item view
@@ -59,26 +59,26 @@ If you photographed a 4-page letter, that's 4 photos but 1 item. To merge photos
 ### 5. Add metadata (15 min)
 
 Select an item and look at the metadata panel on the right. The default template gives you fields like:
-- **Title** — what is this? ("Letter from Jane Smith to Mary Jones")
-- **Date** — when was it created?
-- **Creator** — who made it?
-- **Archive / Collection** — where did you find it?
-- **Rights** — any access or usage restrictions?
+- **Title**—what is this? ("Letter from Jane Smith to Mary Jones")
+- **Date**—when was it created?
+- **Creator**—who made it?
+- **Archive / Collection**—where did you find it?
+- **Rights**—any access or usage restrictions?
 
 You don't need to fill in every field. Focus on the information that will help you *find this item later*.
 
-**Exercise:** Add metadata to at least 5 items. Start with Title and Date — those two fields alone will transform your ability to search.
+**Exercise:** Add metadata to at least 5 items. Start with Title and Date—those two fields alone will transform your ability to search.
 
 ### 6. Use tags and notes (10 min)
 
-- **Tags:** In the tag panel, add descriptive tags to your items (e.g., "correspondence," "financial records," "mentions-labor"). Tags work like Zotero tags — they let you filter across your whole project.
+- **Tags:** In the tag panel, add descriptive tags to your items (e.g., "correspondence," "financial records," "mentions-labor"). Tags work like tags in Zotero or similar information organization systems—they let you filter across your whole project.
 - **Notes:** Select a photo within an item, then use the notes panel to transcribe text, jot observations, or record questions. Notes are searchable.
 
 **Exercise:** Tag your items with at least 2–3 tags each. Add a note to one item.
 
 ### 7. Use selections (5 min)
 
-Selections let you highlight a region of a photo — useful for marking a specific paragraph, a signature, a stamp, or an annotation within a larger page.
+Selections let you highlight a region of a photo—useful for marking a specific paragraph, a signature, a stamp, or an annotation within a larger page.
 
 - Open an item's photo in the main viewer
 - Click and drag to draw a rectangle around the area of interest
@@ -96,9 +96,9 @@ Selections let you highlight a region of a photo — useful for marking a specif
 
 ## Keep going
 
-- [Tropy Documentation](https://docs.tropy.org/) — official guide
-- [Tropy Community Forum](https://forums.tropy.org/) — help and discussion
-- [Roy Rosenzweig Center for History and New Media](https://rrchnm.org/) — the team behind both Tropy and Zotero
+- [Tropy Documentation](https://docs.tropy.org/)—official guide
+- [Tropy Community Forum](https://forums.tropy.org/)—help and discussion
+- [Roy Rosenzweig Center for History and New Media](https://rrchnm.org/)—the team behind both Tropy and Zotero
 - [UW–Madison Libraries Tropy Guide](https://researchdata.wisc.edu/digital-humanities/tool-tropy/)
 
 <!-- TODO: Check if Programming Historian has published the Tropy lesson or if it's still in development -->
