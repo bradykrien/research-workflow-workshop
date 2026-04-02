@@ -1,20 +1,30 @@
 .sidebar-nav {
-  min-width: 230px;
-  max-width: 280px;
+  min-width: 240px;
+  max-width: 320px;
   overflow-x: hidden;
+  padding-right: 0.5rem;
 }
 
 .sidebar-nav .site-title,
 .sidebar-nav .site-header {
-  padding: 1rem 1rem;
-  line-height: 1.3;
-  white-space: normal;
+  padding: 1rem 0.9rem 0.8rem;
+  line-height: 1.35;
+  white-space: normal !important;
   word-break: break-word;
+  overflow: visible !important;
+  text-overflow: unset !important;
+}
+
+.sidebar-nav .site-title a,
+.sidebar-nav .site-header a {
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: unset !important;
 }
 
 .sidebar-nav .site-title {
-  font-size: 1.25rem;
-  margin-bottom: 0.5rem;
+  font-size: 1.28rem;
+  margin-bottom: 0.55rem;
 }
 
 .nav-list-link:hover {
@@ -23,11 +33,18 @@
 }
 
 .unit-wordmark {
-  max-width: 90%;
-  width: 160px;
+  max-width: 95%;
+  width: 220px;
   height: auto;
   display: block;
-  margin: 1rem auto 0.5rem;
+  margin: 1.25rem auto 0.35rem;
+}
+
+.sidebar-nav img.unit-wordmark,
+.sidebar-nav img[src*="DIGISCHOLI"] {
+  width: 220px;
+  max-width: 95%;
+  margin: 1.25rem auto 0.5rem;
 }
 
 /* If there is a bottom-left footer logo in the sidebar */
