@@ -20,10 +20,10 @@ Research is a lot of work. It takes a great deal of time, organization, thought,
 
 While it's less common for us to talk about research processes in the humanities and humanistic social sciences than in many STEM fields, it's worth thinking about what your research process looks like and where and how you might benefit from tweaking it or incorporating a digital tool. 
 
-> **REFLECT**
-> Think about the recent research projects that you've worked on. This could be a seminar paper, part of an article, a paper for a conference, etc. Where were your biggest frustrations? 
+> **REFLECT**<br>
+> Think about the recent research projects that you've worked on. This could be a seminar paper, part of an article, a paper for a conference, etc. Where were your biggest frustrations? Where were the annoyances or sources of friction that kept you from focusing on the work that you wanted to be doing? 
 
-Let's think about where in the research life cycle you'd most like to optimize your process a little bit. Every research project and process are unique but research projects in the humanities tend to follow a structure like this. 
+Every research project and process are unique but research projects in the humanities tend to follow a structure like this. During which of the researcher phases below did you run into issues and which tool might you be interested in experimenting with. 
 
 | Stage | What you're doing | Tools that help |
 |:------|:-----------------|:----------------|
@@ -33,17 +33,18 @@ Let's think about where in the research life cycle you'd most like to optimize y
 | **Read & Analyze** | Reading, note-taking, making connections | Zotero and Mendeley |
 | **Write & Cite** | Drafting, inserting citations, building bibliographies | Tropy, Zotero, and Mendeley |
 
-No single tool covers everything. The goal today is to **identify one stage where you feel the most friction** and start building a system for it.
+No single tool covers everything. The goal today is to **identify one stage where you feel the most friction** and start building a system for it. We'll also talk a little bit about how AI tools might fit into your research process. This will look a little bit different than for 
 
 ## Choose Your Path
 
 Pick the guide that matches the problem you most want to solve right now:
 
-- **[Zotero]({% link zotero.md %})** — *"I need a better system for collecting, organizing, and citing sources."*
-- **[Tropy]({% link tropy.md %})** — *"I have hundreds of archival photos and no way to find anything."*
 - **[Literature Monitoring]({% link literature-monitoring.md %})** — *"I never know when new work comes out in my field."*
-- **[AI in Research]({% link ai-in-research.md %})** — *"I want to understand where AI fits (and doesn't fit) in my work."*
+- **[Tropy]({% link tropy.md %})** — *"I have hundreds of archival photos and no way to find anything."*
+- **[Zotero]({% link zotero.md %})** — *"I need a better system for collecting, organizing, and citing sources."*
 - **[Mendeley]({% link mendeley.md %})** — *"I already use Mendeley and want to get more out of it."*
+- **[AI in Research]({% link ai-in-research.md %})** — *"I want to understand where AI fits (and doesn't fit) in my work."*
+
 
 ## Workshop Format
 
