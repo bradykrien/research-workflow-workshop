@@ -33,7 +33,7 @@ Every research project and process are unique but research projects in the human
 | **Read & Analyze** | Reading, note-taking, making connections | Zotero and Mendeley |
 | **Write & Cite** | Drafting, inserting citations, building bibliographies | Tropy, Zotero, and Mendeley |
 
-No single tool covers everything. The goal today is to **identify one stage where you feel the most friction** and start building a system for it. We'll also talk a little bit about how AI tools might fit into your research process. This will look a little bit different than for 
+No single tool covers everything. The goal today is to **identify one stage** where you feel the most friction and **start building a system** for it. We'll also talk a little bit about how AI tools might fit into your research process. This will look a little bit different than for 
 
 ## Choose Your Path
 
