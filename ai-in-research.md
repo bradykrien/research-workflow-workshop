@@ -79,6 +79,8 @@ If you want to experiment with AI in your research, here are some lower-risk ent
 - [University policies on AI in research](https://example.com) — *replace with your institution's policy page*
 - [Humanities Commons](https://hcommons.org/) — community discussions about AI and the humanities
 - [ACH (Association for Computers and the Humanities)](https://ach.org/) — professional community engaging with digital tools
+- [UW–Madison Libraries Guide on Generative AI](https://researchguides.library.wisc.edu/GenerativeAI)—Guidance on using LLMs and other Generative AI tools at UW–Madison
+- [The Artificial Intelligence Disclosure (AID) Framework](https://researchguides.library.wisc.edu/GenerativeAI)—Framework for thinking through where AI can be used for specific research tasks
 
 <!-- TODO: Replace placeholder links with your institution's specific AI policies -->
 <!-- TODO: Add any discipline-specific AI guidelines (AHA, MLA, etc.) -->

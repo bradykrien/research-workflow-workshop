@@ -18,5 +18,36 @@
       });
     };
     setIcon("{{ favicon_url }}");
+
+    // Insert unit wordmark/logo under the site title in the sidebar
+    var insertWordmark = function() {
+      var logoUrl = "{{ '/assets/DIGISCHOLI_color-flush.png' | relative_url }}";
+      var altText = "Unit wordmark";
+
+      // Try a few selectors for different theme versions
+      var header = document.querySelector('.sidebar-nav .site-title') ||
+                   document.querySelector('.sidebar-nav .site-header') ||
+                   document.querySelector('.site-header') ||
+                   document.querySelector('.site-title');
+      if (!header) return;
+
+      // Don't add if already present
+      if (header.querySelector('.unit-wordmark')) return;
+
+      var img = document.createElement('img');
+      img.src = logoUrl;
+      img.alt = altText;
+      img.className = 'unit-wordmark';
+      img.setAttribute('role', 'img');
+
+      // Insert after the site title text
+      header.appendChild(img);
+    };
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', insertWordmark);
+    } else {
+      insertWordmark();
+    }
   })();
 </script>
