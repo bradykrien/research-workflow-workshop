@@ -1,7 +1,7 @@
 ---
 title: Mendeley
 layout: default
-nav_order: 6
+nav_order: 5
 ---
 
 # Mendeley
@@ -12,7 +12,7 @@ An alternative citation manager for those already in the Mendeley ecosystem.
 
 ---
 
-## What this solves
+## What is It Good For?
 
 Same problem as Zotero — organizing sources and generating citations — but in a different tool. If you're already using Mendeley or your lab/advisor uses it, this guide will help you get more out of it.
 
@@ -80,3 +80,5 @@ Mendeley's built-in PDF reader lets you highlight and annotate directly:
 
 - [Mendeley Guides](https://www.mendeley.com/guides) — official tutorials
 - [Mendeley Support](https://service.elsevier.com/app/home/supporthub/mendeley/) — help center
+- [UW–Madison Libraries Mendeley Guide](https://www.library.wisc.edu/research-support/collecting-organizing-analyzing-information/citation-managers/mendeley/)
+

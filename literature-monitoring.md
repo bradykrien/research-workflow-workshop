@@ -1,7 +1,7 @@
 ---
 title: Literature Monitoring
 layout: default
-nav_order: 4
+nav_order: 2
 ---
 
 # Literature Monitoring
@@ -12,7 +12,7 @@ Stay current with new research in your field using BrowZine and Google Scholar A
 
 ---
 
-## What this solves
+## What is It Good For?
 
 A new article came out six months ago that's directly relevant to your dissertation chapter, and you only found out about it from a footnote in someone else's paper. Literature monitoring tools send new publications *to you* so you don't have to remember to go looking.
 

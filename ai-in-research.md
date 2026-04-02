@@ -1,7 +1,7 @@
 ---
 title: AI in Research
 layout: default
-nav_order: 5
+nav_order: 6
 ---
 
 # AI in the Research Workflow
@@ -33,7 +33,8 @@ AI tools (large language models like ChatGPT, Claude, Gemini, and others) can su
 | **Read & Analyze** | Exploring patterns in text, generating initial codes for qualitative data | High — requires careful validation against sources |
 | **Write & Cite** | Drafting, editing, overcoming writer's block, checking translations | Medium to High — depends on how you use the output |
 
-
+> **WARNING!**
+> Determining what you can share with an LLM (data for analysis, articles for summary, etc.) is more complex than it looks at first glance. A good place to start is the [UW–Madison Generative AI Tools Guide](https://it.wisc.edu/generative-ai-services-uw-madison/), which offers information about which tools the university has licensed and the types of data or material that can be input into them. 
 ---
 
 ## Key principles for AI in humanistic research
