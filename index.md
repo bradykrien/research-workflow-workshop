@@ -14,7 +14,9 @@ A Research Tool Workshop for Humanists & Social Scientists
 
 ## Welcome
 
-Research is a lot of work. It takes a great deal of time, organization, thought, reading, writing, revision, analysis, and documentation. It's sometimes overwhelming and it's often complicated, but there are tools that can help make your research process a little bit easier and more manageable. This workshop focuses on a helping you select and get started with a digital tool that can help you do the interesting and important work that you do with less time and less stress. 
+You've got 47 tabs open, a draft called 'final_no_really_finalv3,' and half your bibliography is in MLA when it needs to be in Chicago Style. We've all been there.
+
+Research is frequently overwhelming and it's often complicated, but there are tools that can help make your research process a little bit easier and more manageable. This workshop focuses on a helping you select and get started with a digital tool that can help you do the interesting and important work that you do with less time and less stress. 
 
 ## The Research Workflow
 
