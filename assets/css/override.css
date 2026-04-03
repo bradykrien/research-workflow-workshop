@@ -53,7 +53,19 @@ $logo-url: "{{ '/assets/DIGISCHOLI_color-flush.png' | relative_url }}";
 .sidebar-nav .site-header {
   margin-top: 1rem !important;
   margin-bottom: 0.4rem !important;
+  padding: 0.8rem 0.85rem 0.8rem !important;
+  font-size: 1.2rem !important;
+  line-height: 1.6 !important;
+  white-space: normal !important;
+  overflow: visible !important;
   border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+.sidebar-nav .site-title a,
+.sidebar-nav .site-header a {
+  white-space: normal !important;
+  word-break: break-word !important;
+  text-overflow: clip !important;
 }
 
 .sidebar-nav::before {
