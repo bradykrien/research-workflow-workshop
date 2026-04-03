@@ -1,10 +1,11 @@
-{%- assign favicon_url = ("/favicon.svg" | relative_url) | append: "?v=" | append: site.time | date: '%s' -%}
+{%- assign cache_v = site.time | date: "%s" -%}
+{%- assign favicon_url = "/favicon.svg" | relative_url | append: "?v=" | append: cache_v -%}
 {%- assign png_fallback = ("/assets/DIGISCHOLI_color-flush.png" | relative_url) -%}
 <link rel="icon" type="image/svg+xml" href="{{ favicon_url }}">
 <link rel="icon" type="image/png" href="{{ png_fallback }}">
 <link rel="shortcut icon" href="{{ favicon_url }}">
 <link rel="apple-touch-icon" href="{{ png_fallback }}">
-<link rel="stylesheet" href="{{ '/assets/css/override.css' | relative_url | append: '?v=' | append: site.time | date: '%s' }}">
+<link rel="stylesheet" href="{{ '/assets/css/override.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 <script>
   (function() {
     var setIcon = function(url) {
