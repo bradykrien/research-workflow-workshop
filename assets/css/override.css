@@ -27,9 +27,11 @@
   line-height: 1.4 !important;
 }
 
-/* Allow the fixed sidebar to scroll when the viewport height is short */
+/* Add breathing room at the top of the fixed sidebar, and allow scrolling
+   when the viewport is short. The md breakpoint in just-the-docs is 50rem. */
 @media (min-width: 50rem) {
-  .side-bar {
+  header.side-bar {
+    padding-top: 1.25rem !important;
     overflow-y: auto;
   }
 }
