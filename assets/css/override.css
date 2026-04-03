@@ -17,7 +17,7 @@
   padding-bottom: 0.4rem;
 }
 
-/* Let the title text wrap, and give it a bit more visual weight */
+/* Let the title text wrap and give it more visual weight than nav links */
 .side-bar .site-title {
   white-space: normal !important;
   word-break: break-word !important;
@@ -26,6 +26,23 @@
   height: auto !important;
   line-height: 1.35 !important;
   font-size: 1.05rem !important;
+  font-weight: 600 !important;
+}
+
+/* Tighten the gap between the title and the first nav item */
+@media (min-width: 50rem) {
+  .side-bar .site-nav {
+    padding-top: 1rem !important;
+  }
+}
+
+/* Nav links: charcoal by default, red on hover/active — reduces visual noise */
+.nav-list-link {
+  color: #333333 !important;
+}
+
+.nav-list .nav-list-item.active > .nav-list-link {
+  color: #8C182A !important;
 }
 
 /* ============================================================

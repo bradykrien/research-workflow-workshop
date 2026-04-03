@@ -39,19 +39,9 @@ a {
   }
 }
 
-// Sidebar
-.sidebar-nav {
-  background-color: var(--uw-light-gray);
-}
-
-// Active nav item
+// Active nav item border accent
 .nav-list .nav-list-item.active > .nav-list-link {
-  color: var(--uw-cardinal);
   border-left-color: var(--uw-cardinal);
-}
-
-.nav-list-link:hover {
-  color: #8C182A !important;
 }
 
 // Code blocks with cardinal accent
