@@ -1,38 +1,40 @@
----
-# This ensures this file is processed by Jekyll and supports Liquid tags.
----
-
 /* ============================================================
    Sidebar nav title
-   Scope everything under .side-bar so these rules don't bleed
-   into the main-content area, which shares the same class names.
+   Scoped under .side-bar so rules don't bleed into main content.
    ============================================================ */
 
-/* Allow the header box to grow for long/wrapping site titles */
+/* Add breathing room above the title and let the header expand */
+@media (min-width: 50rem) {
+  .side-bar {
+    padding-top: 1.25rem !important;
+    overflow-y: auto;
+  }
+}
+
 .side-bar .site-header {
   height: auto !important;
   max-height: none !important;
-  min-height: 3.75rem;
-  padding-top: 0.9rem;
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.4rem;
 }
 
-/* Let the title text wrap rather than overflow or clip */
+/* Let the title text wrap, and give it a bit more visual weight */
 .side-bar .site-title {
   white-space: normal !important;
   word-break: break-word !important;
   overflow: visible !important;
   text-overflow: unset !important;
   height: auto !important;
-  line-height: 1.4 !important;
+  line-height: 1.35 !important;
+  font-size: 1.05rem !important;
 }
 
-/* Add breathing room at the top of the fixed sidebar, and allow scrolling
-   when the viewport is short. The md breakpoint in just-the-docs is 50rem. */
+/* ============================================================
+   Main content — reduce the excessive top gap above the page title
+   ============================================================ */
+
 @media (min-width: 50rem) {
-  header.side-bar {
-    padding-top: 1.25rem !important;
-    overflow-y: auto;
+  .main-content-wrap {
+    padding-top: 1rem !important;
   }
 }
 
@@ -46,8 +48,7 @@
 }
 
 /* ============================================================
-   DSH logo / footer acknowledgment (rendered via nav_footer_custom.html
-   into .site-footer on desktop, and into the page footer on mobile)
+   DSH logo / footer acknowledgment
    ============================================================ */
 
 .just-the-docs-ack {
