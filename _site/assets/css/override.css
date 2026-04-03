@@ -44,12 +44,22 @@ $logo-url: "/research-workflow-workshop/assets/DIGISCHOLI_color-flush.png";
   padding-top: 0;
 }
 
-/* Ensure the title in the first sidebar panel has breathing room */
-.sidebar-nav .site-title,
-.sidebar-nav .site-header {
-  margin-top: 1rem !important;
-  margin-bottom: 0.4rem !important;
-  border-bottom: 1px solid rgba(0,0,0,0.08);
+/* Site title: allow height to expand for long/wrapping titles */
+.site-header {
+  height: auto !important;
+  max-height: none !important;
+  min-height: 3.75rem;
+  padding-top: 0.9rem;
+  padding-bottom: 0.5rem;
+}
+
+.site-title {
+  white-space: normal !important;
+  word-break: break-word !important;
+  overflow: visible !important;
+  text-overflow: unset !important;
+  height: auto !important;
+  line-height: 1.4 !important;
 }
 
 .sidebar-nav::before {
@@ -73,28 +83,12 @@ $logo-url: "/research-workflow-workshop/assets/DIGISCHOLI_color-flush.png";
   line-height: 1.25;
 }
 
-.sidebar-nav .site-title,
-.sidebar-nav .site-header {
-  padding: 1.2rem 1rem 1rem;
-  line-height: 1.45;
-  white-space: normal !important;
-  word-break: break-word;
-  overflow: visible !important;
-  text-overflow: unset !important;
-}
 
-.sidebar-nav .site-title a,
-.sidebar-nav .site-header a {
-  white-space: normal !important;
-  overflow: visible !important;
-  text-overflow: unset !important;
-  display: block;
-}
-
-.sidebar-nav .site-title {
-  font-size: 1.5rem;
-  margin-bottom: 0.75rem;
-  max-width: calc(100% - 1rem);
+/* Allow the fixed sidebar to scroll when the viewport height is small */
+@media (min-width: 50rem) {
+  .side-bar {
+    overflow-y: auto;
+  }
 }
 
 .nav-list-link:hover {
