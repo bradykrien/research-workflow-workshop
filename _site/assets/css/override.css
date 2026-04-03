@@ -1,51 +1,11 @@
-$logo-url: "/research-workflow-workshop/assets/DIGISCHOLI_color-flush.png";
+/* ============================================================
+   Sidebar nav title
+   Scope everything under .side-bar so these rules don't bleed
+   into the main-content area, which shares the same class names.
+   ============================================================ */
 
-.sidebar-nav {
-  min-width: 280px;
-  max-width: 360px;
-  width: 320px;
-  overflow-x: hidden;
-  padding-right: 0.7rem;
-  position: relative;
-  padding-top: 170px;
-}
-
-.sidebar-nav::before,
-.sidebar-nav::after {
-  content: none;
-}
-
-.sidebar-nav .logo-container {
-  position: absolute;
-  top: 0.7rem;
-  left: 0;
-  right: 0;
-  text-align: center;
-  padding: 0.25rem 0 0.65rem;
-  margin: 0 auto;
-  background: transparent;
-}
-
-.sidebar-nav .logo-container img {
-  max-width: 220px;
-  width: auto;
-  height: auto;
-  display: inline-block;
-}
-
-.sidebar-nav .logo-container img {
-  max-width: 220px;
-  width: auto;
-}
-
-.sidebar-nav .nav-list,
-.sidebar-nav .nav ul {
-  margin-top: 0;
-  padding-top: 0;
-}
-
-/* Site title: allow height to expand for long/wrapping titles */
-.site-header {
+/* Allow the header box to grow for long/wrapping site titles */
+.side-bar .site-header {
   height: auto !important;
   max-height: none !important;
   min-height: 3.75rem;
@@ -53,7 +13,8 @@ $logo-url: "/research-workflow-workshop/assets/DIGISCHOLI_color-flush.png";
   padding-bottom: 0.5rem;
 }
 
-.site-title {
+/* Let the title text wrap rather than overflow or clip */
+.side-bar .site-title {
   white-space: normal !important;
   word-break: break-word !important;
   overflow: visible !important;
@@ -62,79 +23,26 @@ $logo-url: "/research-workflow-workshop/assets/DIGISCHOLI_color-flush.png";
   line-height: 1.4 !important;
 }
 
-.sidebar-nav::before {
-  content: "";
-  display: block;
-  width: 220px;
-  height: 80px;
-  margin: 0.5rem auto 0.3rem;
-  background-image: url('/assets/DIGISCHOLI_color-flush.png');
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
-.sidebar-nav::after {
-  content: "\A This site uses Just the Docs, a documentation theme for Jekyll.";
-  white-space: pre-wrap;
-  font-size: 0.78rem;
-  color: #666;
-  margin: 0.35rem 0.8rem 0.65rem;
-  line-height: 1.25;
-}
-
-
-/* Allow the fixed sidebar to scroll when the viewport height is small */
+/* Allow the fixed sidebar to scroll when the viewport height is short */
 @media (min-width: 50rem) {
   .side-bar {
     overflow-y: auto;
   }
 }
 
+/* ============================================================
+   Navigation link hover — UW red
+   ============================================================ */
+
 .nav-list-link:hover {
   color: #8C182A !important;
   background-color: rgba(140, 24, 42, 0.08) !important;
 }
 
-.unit-wordmark {
-  max-width: 95%;
-  width: 220px;
-  height: auto;
-  display: block;
-  margin: 1.25rem auto 0.35rem;
-}
-
-.sidebar-nav img.unit-wordmark,
-.sidebar-nav img[src*="DIGISCHOLI"] {
-  width: 220px;
-  max-width: 95%;
-  margin: 1.25rem auto 0.5rem;
-}
-
-/* If there is a bottom-left footer logo in the sidebar */
-.sidebar-nav img,
-.sidebar-nav .logo-container img {
-  max-width: 170px;
-  width: auto;
-}
-
-.sidebar-nav .logo-container {
-  text-align: center;
-  padding: 0.9rem 0;
-  order: 2; /* keep near top after title */
-  margin-bottom: 0.9rem;
-}
-
-.sidebar-nav .site-title + .logo-container,
-.sidebar-nav .site-title + .unit-wordmark,
-.sidebar-nav .site-header + .logo-container,
-.sidebar-nav .site-header + .unit-wordmark {
-  order: 2;
-}
-
-.sidebar-nav .nav-list {
-  order: 3;
-}
+/* ============================================================
+   DSH logo / footer acknowledgment (rendered via nav_footer_custom.html
+   into .site-footer on desktop, and into the page footer on mobile)
+   ============================================================ */
 
 .just-the-docs-ack {
   font-size: 0.75rem;

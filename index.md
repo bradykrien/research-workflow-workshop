@@ -33,7 +33,10 @@ Every research project and process are unique but research projects in the human
 | **Read & Analyze** | Reading, note-taking, making connections | Zotero and Mendeley |
 | **Write & Cite** | Drafting, inserting citations, building bibliographies | Tropy, Zotero, and Mendeley |
 
-No single tool covers everything. The goal today is to **identify one stage** where you feel the most friction and **start building a system** for it. We'll also talk a little bit about how AI tools might fit into your research process. This will look a little bit different than for 
+No single tool covers everything. The goal today is to **identify one stage** where you feel the most friction and **start building a system** for it. 
+
+> **NOTE**<br>
+> There are also AI tools that can be useful at each of these stages of the research process. These include both general tools (like Large Language Models such as ChatGPT, Gemini, and Claude) and an ever growing array of specific-use tools such as Scite.ai, which is oriented toward search. We'll talk about AI and research, but instead of focusing on specific tools, we'll talk about strategies for starting to effectively plan for using AI in the research process. 
 
 ## Choose Your Path
 
