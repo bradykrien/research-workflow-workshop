@@ -14,10 +14,20 @@ Artificial Intelligence tools offer a lot of opportunities for helping with rese
 
 ## Getting Started
 
-Keeping up with news in the world of AI can feel like a rather overwhelming task. 
-This isn't a getting-started guide for a single tool. Instead, it's a framework for thinking about how AI fits into your research process — what it can do well, what it can't, and what principles should guide your decisions.
+Keeping up with news in the world of AI can feel like a rather overwhelming task. The functionality of different commercially available models is changing constantly, it seems like companies are coming out with new specialized tools almost daily, and the rules and expectations around AI use for various organizations and journals are wildly inconsistent and in a state of flux. 
 
-There are a wide variety of AI-based research tools, many of which are not based on Large Language Models (LLMs) like ChatGPT or Claude. Examples include optical character recognition (OCR) and transcription tools that can convert images of text or speech to word files. 
+This isn't a getting-started guide for a single tool. Instead, it's a framework for thinking about how AI fits into your research process — and developing a plan for where and how AI will and won't play a role in your research process. 
+
+There are a wide variety of AI-based research tools, many of which are not tailore for specific use cases (in contrast to general Large Language Models (LLMs) like ChatGPT or Claude). Examples include some optical character recognition (OCR) and transcription tools that can convert images of text or speech to word files. These tools can play a really valuable role in your research process by dramatically speeding up the rate and accuracy of certain research processes though it's still critical to consider issues of **accuracy** (you'll want to check before citing or publishing) and **copyright** (feeding certain documents into tools that can subsequently train on them opens up potential legal and licensing issues).
+
+---
+## What You'll Do
+
+Rather than work on implementing one specific tool, we're going to start to develop an **AI Research Management Plan**. This is a dynamic, living document that will be tailored to a specific research project and which will evolve throughout the course of the project. The idea is that you create a plan for where and how you will (and won't) use AI for your research. 
+
+You could specify, for instance, that you will use AI for generating searchable text files of archival images to make them searchable but that you will still personally read every document in your collection and take any quotations directly from the scan of the document itself rather than from the generated full text (to ensure accuracy). Similarly, you might specify that you can use AI for the purposes of copyediting but not to generate any original text. 
+
+Specifying these elements at the outset can help you identify guardrails for your project. It can also play a critical role in ensuring that you're complying with UW, departmental, and publisher policies. 
 
 ---
 
@@ -36,6 +46,9 @@ AI tools (large language models like ChatGPT, Claude, Gemini, and others) can su
 > **WARNING!**
 > Determining what you can share with an LLM (data for analysis, articles for summary, etc.) is more complex than it looks at first glance. A good place to start is the [UW–Madison Generative AI Tools Guide](https://it.wisc.edu/generative-ai-services-uw-madison/), which offers information about which tools the university has licensed and the types of data or material that can be input into them. 
 ---
+
+## Some Common AI-Research Tools in the Humanities
+- Whisper: Developed by OpenAI
 
 ## Key principles for AI in humanistic research
 
