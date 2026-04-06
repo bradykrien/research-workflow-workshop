@@ -28,7 +28,15 @@ A new article came out six months ago that's directly relevant to your dissertat
 | **Cost** | Free through your UW–Madison | Free |
 | **Setup time** | ~10 minutes | ~10 minutes |
 
-They complement each other well. BrowZine is journal-centric ("tell me when *American Historical Review* publishes something new"). Google Scholar is topic- and author-centric ("tell me when someone publishes on *digital labor in the Progressive Era*"). A strong monitoring setup uses both — but each takes about 20 minutes to set up, so **start with whichever fits your workflow better and come back to the other if time allows.**
+They complement each other well. BrowZine is journal-centric ("tell me when *American Historical Review* publishes something new"). Google Scholar is topic- and author-centric ("tell me when someone publishes on *digital labor in the Progressive Era*").
+
+## What a strong monitoring setup looks like
+
+- **BrowZine** for the 5–8 journals you consider "must-read"
+- **Google Scholar alerts** for 3–5 specific topics and 5–10 key scholars
+- **A weekly routine** (15 min) where you scan what's come in and save anything important to Zotero
+
+Each tool takes about 20 minutes to set up. **Start with whichever fits your workflow better and come back to the other if time allows.** You don't need both running today — getting one working well is a real win.
 
 ---
 

@@ -77,11 +77,13 @@ You don't need to fill in every field. Focus on the information that will help y
 - **Tags:** In the tag panel, add descriptive tags to your items (e.g., "correspondence," "financial records," "mentions-labor"). Tags work like tags in Zotero or similar information organization systems—they let you filter across your whole project.
 - **Notes:** Select a photo within an item, then use the notes panel to transcribe text, jot observations, or record questions. Notes are searchable.
 
-**Exercise:** Tag your items with at least 2–3 tags each. Add a note to one item.
+**A note on tagging as interpretation:** The tags you choose are not neutral. Deciding that a document "mentions-labor" or belongs to "women's networks" or represents "state violence" reflects your analytical framework — it's an early act of interpretation, not just a filing decision. The schema you develop in Tropy is, in a real sense, a draft argument about what matters in your archive and how things relate to each other. Take it seriously: your tagging vocabulary is part of your methodology.
 
-### 7. Use selections (5 min)
+**Exercise:** Tag your items with at least 2–3 tags each. Try to use at least one tag that describes the document's *content or type* (e.g., "correspondence," "financial record") and one that describes its *relationship to your argument* (e.g., "labor-organizing," "counters-my-thesis," "key-evidence"). Add a note to one item.
 
-Selections let you highlight a region of a photo—useful for marking a specific paragraph, a signature, a stamp, or an annotation within a larger page.
+### 7. Use selections (optional — if you finish early)
+
+Selections let you highlight a region of a photo — useful for marking a specific paragraph, a signature, a stamp, or an annotation within a larger page.
 
 - Open an item's photo in the main viewer
 - Click and drag to draw a rectangle around the area of interest
@@ -91,9 +93,11 @@ Selections let you highlight a region of a photo—useful for marking a specific
 
 ## Tips for long-term success
 
-- **Describe as you go.** It's much harder to remember what things are three months after the archive trip. Even a quick title is better than nothing.
-- **Develop a consistent tagging vocabulary.** Write down the tags you're using and what they mean. You'll thank yourself when the project grows.
-- **Use Tropy's export** to generate JSON-LD or CSV files if you need to work with your metadata in other tools.
+- **Describe as you go.** It's much harder to remember what things are three months after the archive trip — context you had while standing at the box evaporates fast. Even a quick title and date is better than nothing. If you photographed something, you thought it mattered; record why while you still know.
+- **Treat your tagging vocabulary as a living document.** Write down the tags you're using and what they mean, somewhere outside Tropy. Review and revise it as your project develops. A tag that made sense in year one of the dissertation may need to split into two tags by year three — and that's a sign your thinking has sharpened, not that you organized poorly.
+- **Recognize that organization is interpretation.** The categories you create in Tropy — which documents get grouped, what tags you apply, which items you title "administrative correspondence" versus "surveillance records" — reflect your analytical choices. The schema you build is a draft of your argument. When you find yourself uncertain about how to categorize something, that uncertainty is often a research question worth writing down.
+- **Plan your tagging schema before a new archive trip.** Once you know what you're looking for, sketch out your likely tags in advance. You'll process materials faster on site and arrive home with a collection that's already half-organized.
+- **Use Tropy's export** to generate JSON-LD or CSV files if you need to work with your metadata in other tools or share it with collaborators.
 
 ---
 

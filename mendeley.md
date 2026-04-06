@@ -31,7 +31,7 @@ Same problem as Zotero — organizing sources and generating citations — but i
 | **Community** | Large, independent, active forums | Smaller community, Elsevier-managed support |
 | **Best for** | Humanities, social sciences, general-purpose | Sciences, Elsevier-heavy workflows |
 
-**Our recommendation:** If you're starting from scratch, Zotero is usually the stronger choice for humanities researchers. If you're already invested in Mendeley and it's working for you, keep going — the core concepts are the same.
+If you're already using Mendeley and it's working for you, keep going — the core concepts map directly to Zotero and everything you build here is transferable. If you're deciding between the two from scratch, the Zotero guide is worth a look, as its browser connector tends to be more versatile for humanities workflows.
 
 ---
 
@@ -75,6 +75,15 @@ Mendeley's built-in PDF reader lets you highlight and annotate directly:
 - Install the Mendeley Cite plugin for Microsoft Word (look for it under Tools or in the Mendeley app settings)
 - Open Word, find the Mendeley Cite tab
 - Insert a citation, choose your style, and generate a bibliography
+
+---
+
+## Tips for long-term success
+
+- **Use the Web Importer constantly.** Whenever you find a useful source in your browser, click the button. Two seconds of effort now saves significant reformatting later.
+- **Mendeley's PDF annotation is its strongest feature.** If you read a lot of PDFs, building a habit of highlighting and annotating directly in Mendeley means your notes stay linked to the source — no separate document to track down later.
+- **Keep an eye on metadata accuracy.** Mendeley's auto-extraction from PDFs is good but not perfect. Spot-check author names, years, and journal titles, especially for older or non-English sources.
+- **Check Zotero if you're starting to feel constrained.** The core concepts are the same and Zotero's browser connector tends to be more versatile. Switching is easier than it sounds — both tools can export in standard formats.
 
 ---
 

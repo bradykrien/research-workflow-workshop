@@ -1,4 +1,4 @@
-<h1 class="fs-8" id="mendeley">Mendeley</h1>
+I"<h1 class="fs-8" id="mendeley">Mendeley</h1>
 
 <p class="fs-5 fw-300">An alternative citation manager for those already in the Mendeley ecosystem.</p>
 
@@ -56,7 +56,7 @@
   </tbody>
 </table>
 
-<p>If you’re already using Mendeley and it’s working for you, keep going — the core concepts map directly to Zotero and everything you build here is transferable. If you’re deciding between the two from scratch, the Zotero guide is worth a look, as its browser connector tends to be more versatile for humanities workflows.</p>
+<p><strong>Our recommendation:</strong> If you’re starting from scratch, Zotero is usually the stronger choice for humanities researchers. If you’re already invested in Mendeley and it’s working for you, keep going — the core concepts are the same.</p>
 
 <hr />
 
@@ -134,3 +134,4 @@
   <li><a href="https://www.library.wisc.edu/research-support/collecting-organizing-analyzing-information/citation-managers/mendeley/">UW–Madison Libraries Mendeley Guide</a></li>
 </ul>
 
+:ET

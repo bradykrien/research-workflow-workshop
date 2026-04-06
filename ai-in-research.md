@@ -85,9 +85,6 @@ Some of these requirements are very general, such as that for *PMLA*, which simp
 
 ---
 
-## Some Common AI-Research Tools in the Humanities
-- Whisper: Developed by OpenAI
-
 ## Key principles for AI in humanistic research
 
 ### 1. AI is a thinking partner, not an authority
@@ -104,6 +101,30 @@ Humanities research often values close reading, interpretive nuance, and positio
 
 ### 5. Survey the Policies and Expectations for Specific Projects
 It's tempting to want to simply identify and follow "the rules," but in the AI for research spaces, there is less one set of rules than an overlapping set of laws, policies, expectations, professional norms, and personal values. Taking the time to map out how these various frameworks apply to your research not only helps with compliance and planning but also creating a more robust research plan. 
+
+---
+
+## Practical starting points
+
+If you want to experiment with AI in your research, here are some lower-risk entry points — with examples of what the prompts actually look like.
+
+- **Brainstorming search terms and adjacent fields.** Use AI to expand your research horizon before you start a literature search. You're still doing the evaluating — the AI is generating options.
+
+  > *"I'm a historian researching labor organizing in the meatpacking industry in Chicago in the 1930s. What related topics, adjacent fields, or subfields might have relevant scholarship I should be aware of? Are there methodological approaches from other disciplines I should consider?"*
+
+- **Plain-language explanations of unfamiliar methods.** Ask an AI to explain a methodology in simpler terms, then verify against the source text before you rely on it.
+
+  > *"Explain what critical discourse analysis is and how it's typically used in humanities research. What are its core assumptions, and what kinds of sources or texts is it best suited for?"*
+
+- **Brainstorming and outlining.** Use AI to generate alternative framings of an argument or to surface counterarguments you should address. You're still doing the thinking.
+
+  > *"I'm arguing that [X]. What are the three strongest counterarguments a skeptical reader might raise? What evidence or perspectives would I need to address each one?"*
+
+- **Writing feedback.** Paste in a draft paragraph and ask for feedback on clarity or structure — closer to a writing tutor than ghostwriting.
+
+  > *"Here is a paragraph from my dissertation introduction: [paste paragraph]. What is unclear or confusing about this? Where does the argument feel weak or unsupported? Please don't rewrite it — just identify the problems."*
+
+In each case, notice that the prompts are specific, scoped, and put you in the evaluating role. Vague prompts ("tell me about labor history") produce generic output. Specific prompts that name your project and your question produce something you can actually use.
 
 ---
 

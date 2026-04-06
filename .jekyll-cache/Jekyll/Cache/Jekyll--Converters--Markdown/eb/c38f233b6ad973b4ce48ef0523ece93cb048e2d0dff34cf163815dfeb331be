@@ -1,4 +1,4 @@
-<h1 class="fs-8" id="tropy">Tropy</h1>
+I"t<h1 class="fs-8" id="tropy">Tropy</h1>
 
 <p class="fs-5 fw-300">A free, open-source tool for organizing and describing your archival research photos.</p>
 
@@ -104,11 +104,9 @@
 <h2 id="tips-for-long-term-success">Tips for long-term success</h2>
 
 <ul>
-  <li><strong>Describe as you go.</strong> It’s much harder to remember what things are three months after the archive trip — context you had while standing at the box evaporates fast. Even a quick title and date is better than nothing. If you photographed something, you thought it mattered; record why while you still know.</li>
-  <li><strong>Treat your tagging vocabulary as a living document.</strong> Write down the tags you’re using and what they mean, somewhere outside Tropy. Review and revise it as your project develops. A tag that made sense in year one of the dissertation may need to split into two tags by year three — and that’s a sign your thinking has sharpened, not that you organized poorly.</li>
-  <li><strong>Recognize that organization is interpretation.</strong> The categories you create in Tropy — which documents get grouped, what tags you apply, which items you title “administrative correspondence” versus “surveillance records” — reflect your analytical choices. The schema you build is a draft of your argument. When you find yourself uncertain about how to categorize something, that uncertainty is often a research question worth writing down.</li>
-  <li><strong>Plan your tagging schema before a new archive trip.</strong> Once you know what you’re looking for, sketch out your likely tags in advance. You’ll process materials faster on site and arrive home with a collection that’s already half-organized.</li>
-  <li><strong>Use Tropy’s export</strong> to generate JSON-LD or CSV files if you need to work with your metadata in other tools or share it with collaborators.</li>
+  <li><strong>Describe as you go.</strong> It’s much harder to remember what things are three months after the archive trip. Even a quick title is better than nothing.</li>
+  <li><strong>Develop a consistent tagging vocabulary.</strong> Write down the tags you’re using and what they mean. You’ll thank yourself when the project grows.</li>
+  <li><strong>Use Tropy’s export</strong> to generate JSON-LD or CSV files if you need to work with your metadata in other tools.</li>
 </ul>
 
 <hr />
@@ -123,3 +121,4 @@
 </ul>
 
 <!-- TODO: Check if Programming Historian has published the Tropy lesson or if it's still in development -->
+:ET
