@@ -16,7 +16,7 @@ An alternative citation manager for those already in the Mendeley ecosystem.
 
 Same problem as Zotero — organizing sources and generating citations — but in a different tool. If you're already using Mendeley or your lab/advisor uses it, this guide will help you get more out of it.
 
-**Where it fits in the workflow:** Gather → Organize → Write & Cite
+**Where it fits in the workflow:** Collect → Organize → Write & Cite
 
 ---
 
