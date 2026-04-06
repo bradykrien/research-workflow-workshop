@@ -18,8 +18,6 @@ You're juggling PDFs in random folders, copying and pasting citation info into a
 
 **Where it fits in the workflow:** Gather → Organize → Write & Cite
 
-**Where it fits in the workflow:** Gather → Organize → Write & Cite
-
 ---
 
 ## Get started 
@@ -96,5 +94,3 @@ Click the green "+" button, choose the item type (book, journal article, etc.), 
 - [Zotero Documentation](https://www.zotero.org/support/) — comprehensive reference
 - [Zotero Forums](https://forums.zotero.org/) — active community for troubleshooting
 - [UW–Madison Libraries Zotero Guide](https://www.library.wisc.edu/research-support/collecting-organizing-analyzing-information/citation-managers/zotero/)
-
-<!-- TODO: Add link to your institution's Zotero guide if your library has one -->

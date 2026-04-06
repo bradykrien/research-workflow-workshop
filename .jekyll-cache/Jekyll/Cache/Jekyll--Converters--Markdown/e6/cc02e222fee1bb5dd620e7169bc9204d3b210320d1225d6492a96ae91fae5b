@@ -1,4 +1,4 @@
-<h1 class="fs-8" id="zotero">Zotero</h1>
+I"P<h1 class="fs-8" id="zotero">Zotero</h1>
 
 <p class="fs-5 fw-300">A free, open-source tool for collecting, organizing, and citing your research sources.</p>
 
@@ -102,3 +102,6 @@ Click the green “+” button, choose the item type (book, journal article, etc
   <li><a href="https://forums.zotero.org/">Zotero Forums</a> — active community for troubleshooting</li>
   <li><a href="https://www.library.wisc.edu/research-support/collecting-organizing-analyzing-information/citation-managers/zotero/">UW–Madison Libraries Zotero Guide</a></li>
 </ul>
+
+<!-- TODO: Add link to your institution's Zotero guide if your library has one -->
+:ET

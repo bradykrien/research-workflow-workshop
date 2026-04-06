@@ -28,7 +28,7 @@ A new article came out six months ago that's directly relevant to your dissertat
 | **Cost** | Free through your UW–Madison | Free |
 | **Setup time** | ~15-20 minutes | ~15-20 minutes |
 
-These toosl complement each other. BrowZine is journal-centric ("tell me when *American Historical Review* publishes something new"). Google Scholar is topic- and author-centric ("tell me when someone publishes on *digital labor in the Progressive Era*").
+These tools complement each other. BrowZine is journal-centric ("tell me when *American Historical Review* publishes something new"). Google Scholar is topic- and author-centric ("tell me when someone publishes on *digital labor in the Progressive Era*").
 
 ## What a potential monitoring setup looks like
 
@@ -45,7 +45,7 @@ Each tool takes about 20 minutes to set up. **Start with whichever fits your wor
 ### 1. Access BrowZine (3 min)
 
 - Go to [browzine.com](https://browzine.com/) or search your visit the UW–Madison Libraries [Browzine Guide](https://www.library.wisc.edu/browzine/)
-- Sign in with your netit — BrowZine uses the Libraries' subscriptions, so you need to authenticate
+- Sign in with your netid — BrowZine uses the Libraries' subscriptions, so you need to authenticate
 - You can also download the BrowZine app for iOS or Android
 
 ### 2. Find your journals (10 min)
