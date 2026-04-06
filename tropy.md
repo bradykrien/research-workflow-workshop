@@ -24,7 +24,10 @@ Trying to keep track of archival materials can be a challenge. You came back fro
 
 ### 1. Install Tropy (3 min)
 
-Tropy is a desktop application, which means that you have to install it and run it locally on your machine rather than accessing it through an internet browser. 
+Tropy is a desktop application, which means that you have to install it and run it locally on your machine rather than accessing it through an internet browser.
+
+> **Note:** If you're installing on workshop wifi alongside other participants, the download may take longer than expected. Flag Brady if you get stuck.
+
 - Go to [tropy.org](https://tropy.org/) and download the version for your operating system
 - Install and open it
 

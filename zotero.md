@@ -14,8 +14,9 @@ A free, open-source tool for collecting, organizing, and citing your research so
 
 ## What is It Good For?
 
-Zotero provides a couple of useful features. First, it makes it easy to **collect, organize, and store** research materials like 
-You're juggling PDFs in random folders, copying and pasting citation info into a Word doc, and reformatting your bibliography every time you submit to a different journal. Zotero gives you one place to store everything and handles citation formatting automatically.
+You're juggling PDFs in random folders, copying and pasting citation info into a Word doc, and reformatting your bibliography every time you submit to a different journal. Zotero gives you one place to store everything — your sources, your PDFs, your notes — and handles citation formatting automatically.
+
+**Where it fits in the workflow:** Gather → Organize → Write & Cite
 
 **Where it fits in the workflow:** Gather → Organize → Write & Cite
 
@@ -25,9 +26,11 @@ You're juggling PDFs in random folders, copying and pasting citation info into a
 
 ### 1. Install Zotero (5 min)
 
+> **Note:** If you're installing on workshop wifi alongside other participants, the download may take longer than expected. Flag Brady if you get stuck and move on to Step 2 (exploring the interface) on a neighbor's screen in the meantime.
+
 - Go to [zotero.org/download](https://www.zotero.org/download/) and install **Zotero 7** (the desktop app)
 - Install the **Zotero Connector** for your browser (Chrome, Firefox, Edge, or Safari)
-- Create a free account at [zotero.org/user/register](https://www.zotero.org/user/register) — this enables syncing across devices
+- Create a free account at [zotero.org/user/register](https://www.zotero.org/user/register) — this enables syncing across devices and you'll use it again in Step 6
 
 ### 2. Explore the interface (5 min)
 

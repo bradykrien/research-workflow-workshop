@@ -1,4 +1,4 @@
-<h1 class="fs-8" id="literature-monitoring">Literature Monitoring</h1>
+I"<h1 class="fs-8" id="literature-monitoring">Literature Monitoring</h1>
 
 <p class="fs-5 fw-300">Research moves fast. Stay current with new research in your field using BrowZine and Google Scholar Alerts.</p>
 
@@ -45,7 +45,7 @@
   </tbody>
 </table>
 
-<p>They complement each other well. BrowZine is journal-centric (“tell me when <em>American Historical Review</em> publishes something new”). Google Scholar is topic- and author-centric (“tell me when someone publishes on <em>digital labor in the Progressive Era</em>”). A strong monitoring setup uses both — but each takes about 20 minutes to set up, so <strong>start with whichever fits your workflow better and come back to the other if time allows.</strong></p>
+<p>They complement each other well. BrowZine is journal-centric (“tell me when <em>American Historical Review</em> publishes something new”). Google Scholar is topic- and author-centric (“tell me when someone publishes on <em>digital labor in the Progressive Era</em>”).</p>
 
 <hr />
 
@@ -147,3 +147,4 @@
 </ul>
 
 <!-- TODO: Add link to your institution's BrowZine access page -->
+:ET

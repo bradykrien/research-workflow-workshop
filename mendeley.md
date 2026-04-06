@@ -39,6 +39,8 @@ Same problem as Zotero — organizing sources and generating citations — but i
 
 ### 1. Install Mendeley (5 min)
 
+> **Note:** If you're installing on workshop wifi alongside other participants, the download may take longer than expected. Flag Brady if you get stuck.
+
 - Go to [mendeley.com/download-reference-manager](https://www.mendeley.com/download-reference-manager/) and install Mendeley Reference Manager (the desktop app)
 - Install the [Mendeley Web Importer](https://www.mendeley.com/reference-management/web-importer) browser extension
 - Sign in or create a free account

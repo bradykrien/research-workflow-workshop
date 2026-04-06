@@ -7,7 +7,7 @@ nav_order: 2
 # Literature Monitoring
 {: .fs-8 }
 
-Research moves fast. Stay current with new research in your field using BrowZine and/or Google Scholar Alerts.
+Research moves fast. Stay current with new research in your field using BrowZine and Google Scholar Alerts.
 {: .fs-5 .fw-300 }
 
 ---
@@ -15,7 +15,7 @@ Research moves fast. Stay current with new research in your field using BrowZine
 ## What is It Good For?
 A new article came out six months ago that's directly relevant to your dissertation chapter, and you only found out about it from a footnote in someone else's paper. Literature monitoring tools send new publications *to you* so you don't have to remember to go looking.
 
-**Where it fits in the workflow:** Discover
+**Where it fits in the workflow:** Search
 
 ---
 
@@ -28,7 +28,7 @@ A new article came out six months ago that's directly relevant to your dissertat
 | **Cost** | Free through your UW–Madison | Free |
 | **Setup time** | ~10 minutes | ~10 minutes |
 
-They complement each other well. BrowZine is journal-centric ("tell me when *American Historical Review* publishes something new"). Google Scholar is topic- and author-centric ("tell me when someone publishes on *digital labor in the Progressive Era*").
+They complement each other well. BrowZine is journal-centric ("tell me when *American Historical Review* publishes something new"). Google Scholar is topic- and author-centric ("tell me when someone publishes on *digital labor in the Progressive Era*"). A strong monitoring setup uses both — but each takes about 20 minutes to set up, so **start with whichever fits your workflow better and come back to the other if time allows.**
 
 ---
 

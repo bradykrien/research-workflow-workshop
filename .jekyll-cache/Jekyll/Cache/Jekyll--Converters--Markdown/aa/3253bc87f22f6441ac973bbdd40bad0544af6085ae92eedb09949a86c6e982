@@ -1,4 +1,4 @@
-<h1 class="fs-8" id="mendeley">Mendeley</h1>
+I"<h1 class="fs-8" id="mendeley">Mendeley</h1>
 
 <p class="fs-5 fw-300">An alternative citation manager for those already in the Mendeley ecosystem.</p>
 
@@ -65,7 +65,7 @@
 <h3 id="1-install-mendeley-5-min">1. Install Mendeley (5 min)</h3>
 
 <blockquote>
-  <p><strong>Note:</strong> If you’re installing on workshop wifi alongside other participants, the download may take longer than expected. Flag Brady if you get stuck.</p>
+  <p><strong>Note:</strong> If you’re installing on workshop wifi alongside other participants, the download may take longer than expected. Flag the facilitator if you get stuck.</p>
 </blockquote>
 
 <ul>
@@ -123,3 +123,4 @@
   <li><a href="https://www.library.wisc.edu/research-support/collecting-organizing-analyzing-information/citation-managers/mendeley/">UW–Madison Libraries Mendeley Guide</a></li>
 </ul>
 
+:ET
