@@ -27,7 +27,7 @@ Rather than work on implementing one specific tool, we're going to start to deve
 
 You could specify, for instance, that you will use AI for generating searchable text files of archival images to make them searchable but that you will still personally read every document in your collection and take any quotations directly from the scan of the document itself rather than from the generated full text (to ensure accuracy). Similarly, you might specify that you can use AI for the purposes of copyediting but not to generate any original text. 
 
-Specifying these elements at the outset can help you identify guardrails for your project. It can also play a critical role in ensuring that you're complying with UW, departmental, and publisher policies. 
+Specifying these elements at the outset can help you identify guardrails for your project. It can also play a critical role in ensuring that you're complying with UW, departmental, and publisher policies as well as your own goals and values. 
 
 ---
 
