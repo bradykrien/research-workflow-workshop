@@ -1,4 +1,4 @@
-<h1 class="fs-8" id="ai-in-the-research-workflow">AI in the Research Workflow</h1>
+I"�8<h1 class="fs-8" id="ai-in-the-research-workflow">AI in the Research Workflow</h1>
 
 <p class="fs-5 fw-300">Artificial Intelligence tools offer a lot of opportunities for helping with research. They also come with complicated risks. Understanding how and when to use these tools and creating a plan can help you research on the cutting edge without going over the edge.</p>
 
@@ -15,7 +15,7 @@
 <hr />
 <h2 id="what-youll-do">What You’ll Do</h2>
 
-<p>Rather than work on implementing one specific tool, we’re going to start to develop an <strong>AI Research Management Plan</strong>. This is a dynamic, living document that will be tailored to a specific research project and which will evolve throughout the course of the project. The idea is that you create a plan for where and how you will (and won’t) use AI for your research. You can use this <a href="https://docs.google.com/document/d/1gY84o6vL3QKh-567d_LKBWx02vqsNNYemzbqe0v0Zds/copy">Google Doc</a> (link creates a copy) to get started laying out your plan.</p>
+<p>Rather than work on implementing one specific tool, we’re going to start to develop an <strong>AI Research Management Plan</strong>. This is a dynamic, living document that will be tailored to a specific research project and which will evolve throughout the course of the project. The idea is that you create a plan for where and how you will (and won’t) use AI for your research.</p>
 
 <p>You could specify, for instance, that you will use AI for generating searchable text files of archival images to make them searchable but that you will still personally read every document in your collection and take any quotations directly from the scan of the document itself rather than from the generated full text (to ensure accuracy). Similarly, you might specify that you can use AI for the purposes of copyediting but not to generate any original text.</p>
 
@@ -155,3 +155,4 @@ One important distinction to note within UW policy and the world of AI in genera
 
 <!-- TODO: Replace placeholder links with your institution's specific AI policies -->
 <!-- TODO: Add any discipline-specific AI guidelines (AHA, MLA, etc.) -->
+:ET

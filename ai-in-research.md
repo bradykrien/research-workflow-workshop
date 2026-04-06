@@ -23,7 +23,7 @@ There are a wide variety of AI-based research tools, many of which are not tailo
 ---
 ## What You'll Do
 
-Rather than work on implementing one specific tool, we're going to start to develop an **AI Research Management Plan**. This is a dynamic, living document that will be tailored to a specific research project and which will evolve throughout the course of the project. The idea is that you create a plan for where and how you will (and won't) use AI for your research. 
+Rather than work on implementing one specific tool, we're going to start to develop an **AI Research Management Plan**. This is a dynamic, living document that will be tailored to a specific research project and which will evolve throughout the course of the project. The idea is that you create a plan for where and how you will (and won't) use AI for your research. You can use this [Google Doc](https://docs.google.com/document/d/1gY84o6vL3QKh-567d_LKBWx02vqsNNYemzbqe0v0Zds/copy) (link creates a copy) to get started laying out your plan. 
 
 You could specify, for instance, that you will use AI for generating searchable text files of archival images to make them searchable but that you will still personally read every document in your collection and take any quotations directly from the scan of the document itself rather than from the generated full text (to ensure accuracy). Similarly, you might specify that you can use AI for the purposes of copyediting but not to generate any original text. 
 
@@ -82,14 +82,6 @@ Many publishers are increasingly have policies specifying the permissable use of
 
 Some of these requirements are very general, such as that for *PMLA*, which simply states that "Authors must fully cite in the manuscript, at submission, their use of all content (whether text, images, data, or other) created by an AI tool." Others are much more detailed. It's a good idea to review the AI disclosure statement requirements of any publisher to whom you might be considering submitting your work to 
 
----
-
-## AI in Disciplinary Contexts 
-
-One important potential consideration is understanding how the utilization of different AI tools is understood in the context of your discipline and work. Using an AI coding tool to help setup a workflow for transcribing documents may be completely acceptable for a historian while these tools might not be considered appropriate in the context of computer science. 
-
-One potential play to start in understanding the emerging professional practices in your disciplines is to review any guidance put out my your professional organization. Examples of this include: 
-- [The American Historical Association Guiding Principles for Artificial Intelligence in History Education](https://www.historians.org/resource/guiding-principles-for-artificial-intelligence-in-history-education/)
 
 ---
 
@@ -110,19 +102,8 @@ If you used AI tools in your research, say so. Many journals and institutions ar
 ### 4. Consider the epistemological implications
 Humanities research often values close reading, interpretive nuance, and positionality. AI tools can shortcut some of these processes in ways that may undermine the kind of knowledge you're trying to produce. Ask: *does this tool help me think more carefully, or does it replace the thinking I should be doing?*
 
-### 5. Know your institution's policies
-Your university, department, and individual instructors or advisors may have specific guidelines about AI use in coursework, qualifying exams, and dissertations. Know the rules that apply to you.
-
----
-
-## Practical starting points
-
-If you want to experiment with AI in your research, here are some lower-risk entry points:
-
-- **Brainstorming and outlining:** Use AI to generate alternative framings of your argument or to suggest counterarguments. You're still doing the thinking — the AI is just prompting you.
-- **Plain-language summaries:** Ask an AI to explain a methodological concept in simpler terms, then verify the explanation against the source text.
-- **Translation assistance:** If you work with sources in multiple languages, AI can provide rough translations for triage purposes. Always have a qualified reader check anything you cite.
-- **Writing feedback:** Paste in a draft paragraph and ask for feedback on clarity, structure, or tone. This is closer to using a writing tutor than to having the AI write for you.
+### 5. Survey the Policies and Expectations for Specific Projects
+It's tempting to want to simply identify and follow "the rules," but in the AI for research spaces, there is less one set of rules than an overlapping set of laws, policies, expectations, professional norms, and personal values. Taking the time to map out how these various frameworks apply to your research not only helps with compliance and planning but also creating a more robust research plan. 
 
 ---
 
@@ -136,11 +117,8 @@ If you want to experiment with AI in your research, here are some lower-risk ent
 ---
 
 ## Keep going
-
-- [Anthropic's Claude](https://claude.ai/) — a conversational AI tool; free tier available
-- [University policies on AI in research](https://example.com) — *replace with your institution's policy page*
-- [Humanities Commons](https://hcommons.org/) — community discussions about AI and the humanities
-- [ACH (Association for Computers and the Humanities)](https://ach.org/) — professional community engaging with digital tools
+- Check out any AI frameworks or guides published by your professional organization(s). 
+- Look for interesting perspectives on AI in your field and try to get multiple perspectives (e.g. [The Generative Historian](https://generativehistory.substack.com/))
 - [UW–Madison Libraries Guide on Generative AI](https://researchguides.library.wisc.edu/GenerativeAI)—Guidance on using LLMs and other Generative AI tools at UW–Madison
 - [The Artificial Intelligence Disclosure (AID) Framework](https://crln.acrl.org/index.php/crlnews/article/view/26548/34482)—Framework for thinking through where AI can be used for specific research tasks
 
