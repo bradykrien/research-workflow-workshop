@@ -84,7 +84,7 @@ Click the green "+" button, choose the item type (book, journal article, etc.), 
 
 ## Tips for long-term success
 
-- **Use the Connector constantly.** Whenever you find a useful source, click the button. It takes 2 seconds and your future self will thank you.
+- **Use the Connector.** Whenever you find a useful source, click the button. It takes 2 seconds and your future self will thank you.
 - **Don't over-organize early.** A few broad collections and some tags is plenty to start. You can restructure later without losing anything.
 - **Explore Zotero groups** for collaborative projects — everyone in a group shares a library.
 
