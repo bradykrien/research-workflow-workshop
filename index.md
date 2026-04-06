@@ -58,3 +58,7 @@ Pick the guide that matches the problem you most want to solve right now:
 **Part 2 (45 min):** Hands-on implementation — pick one tool, follow the getting-started guide, and start building your system. 1-on-1 support is available.
 
 ---
+
+## AI Disclosure
+
+This site was developed with AI assistance. Claude (Anthropic) was used to help refine content, improve accessibility and structure, and convert ideas into a workable web format. The workshop concept, framework, and instructional decisions are the author's own.

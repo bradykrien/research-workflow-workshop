@@ -18,7 +18,7 @@ Keeping up with news in the world of AI can feel like a rather overwhelming task
 
 This isn't a getting-started guide for a single tool. Instead, it's a framework for thinking about how AI fits into your research process — and developing a plan for where and how AI will and won't play a role in your research process. 
 
-There are a wide variety of AI-based research tools, many of which are not tailore for specific use cases (in contrast to general Large Language Models (LLMs) like ChatGPT or Claude). Examples include some optical character recognition (OCR) and transcription tools that can convert images of text or speech to word files. These tools can play a really valuable role in your research process by dramatically speeding up the rate and accuracy of certain research processes though it's still critical to consider issues of **accuracy** (you'll want to check before citing or publishing) and **copyright** (feeding certain documents into tools that can subsequently train on them opens up potential legal and licensing issues).
+There are a wide variety of AI-based research tools, many of which are not tailored for specific use cases (in contrast to general Large Language Models (LLMs) like ChatGPT or Claude). Examples include some optical character recognition (OCR) and transcription tools that can convert images of text or speech to word files. These tools can play a really valuable role in your research process by dramatically speeding up the rate and accuracy of certain research processes though it's still critical to consider issues of **accuracy** (you'll want to check before citing or publishing) and **copyright** (feeding certain documents into tools that can subsequently train on them opens up potential legal and licensing issues).
 
 ---
 ## What You'll Do
@@ -45,6 +45,52 @@ AI tools (large language models like ChatGPT, Claude, Gemini, and others) can su
 
 > **WARNING!**
 > Determining what you can share with an LLM (data for analysis, articles for summary, etc.) is more complex than it looks at first glance. A good place to start is the [UW–Madison Generative AI Tools Guide](https://it.wisc.edu/generative-ai-services-uw-madison/), which offers information about which tools the university has licensed and the types of data or material that can be input into them. 
+---
+
+# Navigating AI Policies, Practices, and Compliance
+
+One of the most complex parts of potentially utilizing AI in your research process is navigating the overlapping, rapidly evolving, and sometimes contradictory policies and professional norms. UW–Madison has policies around AI use in research but your department may have policies as well. Similarly the faculty members with whom you work may have specific policies or expectations and the professional organizations in your discipline and specific publishers will also likely have their own rules and expectations around what ethical and effective AI use looks like. A further complicating factor is that these policies are almost certain to continue evolving for the foreseeable future. 
+
+This does not mean that you need to avoid using AI at all (though that is a completely legitimate choice for many reasons) but rather that you need to be *thoughtful*, *intentional*, and *transparent* in how you are using AI. This is where developing an AI research management plan can help.
+
+
+A non-exhaustive list of areas to consider in developing your plan includes: 
+
+## University Policy
+UW–Madison has [policies](https://it.wisc.edu/generative-ai-services-uw-madison/generative-ai-uw-madison-use-policies/#general) governing the appropriate use of AI in a variety of contexts. At the moment, these policies tend to be oriented toward safeguarding institutional data and providing broad policies and guidance across the disciplines. This is an important place to start, particularly if you are working with data. 
+
+> **IMPORTANT**<br>
+> One important distinction to note within UW policy and the world of AI in general is organizational licensing and what happens with data. UW–Madison has a [list of tools](https://it.wisc.edu/generative-ai-services-uw-madison/) that have been reviewed and vetted for particular kinds of use. Per UW's agreement with the vendors of these tools, when using these tools with your netid, information that you share won't be used in training future models, adding a layer of protection that enable some types of use not permissible with other generally commercially accessible tools. For instance, UW prohibits entering "material under confidential review, including research papers and funding proposals," except in approved tools. Try to familiarize yourself with this policies and, if any when questions arise, don't be afraid to ask for help or guidance. 
+
+## Departmental & Program Policies
+Some academic departments and programs may also have their own policies with respect to how AI can be used in different contexts. Make sure to check and see what, if any, policies may apply to you or your work. 
+
+## Specific Faculty Policies and Expectations
+While your academic department or program may or may not have specific policies about AI use, the faculty with whom you work will likely have their own beliefs about what constitutes ethical and appropriate use of AI in different context. Be sure to communicate about when and how you are plan to use AI (the AI research management plan can help facilitate this conversation).
+
+## Data & Resource Licenses
+In addition to specific policies regulating what tasks you can perform with AI, there are also often material-specific policies about how you can apply AI to specific data or documents. 
+
+## Disciplinary Norms 
+One important potential consideration is understanding how the utilization of different AI tools is understood in the context of your discipline and work. Using an AI coding tool to help setup a workflow for transcribing documents may be completely acceptable for a historian while these tools might not be considered appropriate in the context of computer science. 
+
+One potential play to start in understanding the emerging professional practices in your disciplines is to review any guidance put out my your professional organization. Examples of this include: 
+- [The American Historical Association Guiding Principles for Artificial Intelligence in History Education](https://www.historians.org/resource/guiding-principles-for-artificial-intelligence-in-history-education/)
+
+## AI Disclosure Statements
+Many publishers are increasingly have policies specifying the permissable use of AI in for use in research outputs that they publish. Publishers are also increasingly requiring the submission of AI disclosure statements that specify how AI was used in the completion of a research project. 
+
+Some of these requirements are very general, such as that for *PMLA*, which simply states that "Authors must fully cite in the manuscript, at submission, their use of all content (whether text, images, data, or other) created by an AI tool." Others are much more detailed. It's a good idea to review the AI disclosure statement requirements of any publisher to whom you might be considering submitting your work to 
+
+---
+
+## AI in Disciplinary Contexts 
+
+One important potential consideration is understanding how the utilization of different AI tools is understood in the context of your discipline and work. Using an AI coding tool to help setup a workflow for transcribing documents may be completely acceptable for a historian while these tools might not be considered appropriate in the context of computer science. 
+
+One potential play to start in understanding the emerging professional practices in your disciplines is to review any guidance put out my your professional organization. Examples of this include: 
+- [The American Historical Association Guiding Principles for Artificial Intelligence in History Education](https://www.historians.org/resource/guiding-principles-for-artificial-intelligence-in-history-education/)
+
 ---
 
 ## Some Common AI-Research Tools in the Humanities
@@ -96,7 +142,7 @@ If you want to experiment with AI in your research, here are some lower-risk ent
 - [Humanities Commons](https://hcommons.org/) — community discussions about AI and the humanities
 - [ACH (Association for Computers and the Humanities)](https://ach.org/) — professional community engaging with digital tools
 - [UW–Madison Libraries Guide on Generative AI](https://researchguides.library.wisc.edu/GenerativeAI)—Guidance on using LLMs and other Generative AI tools at UW–Madison
-- [The Artificial Intelligence Disclosure (AID) Framework](https://researchguides.library.wisc.edu/GenerativeAI)—Framework for thinking through where AI can be used for specific research tasks
+- [The Artificial Intelligence Disclosure (AID) Framework](https://crln.acrl.org/index.php/crlnews/article/view/26548/34482)—Framework for thinking through where AI can be used for specific research tasks
 
 <!-- TODO: Replace placeholder links with your institution's specific AI policies -->
 <!-- TODO: Add any discipline-specific AI guidelines (AHA, MLA, etc.) -->

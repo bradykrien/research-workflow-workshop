@@ -1,4 +1,4 @@
-<h1 class="fs-8" id="ai-in-the-research-workflow">AI in the Research Workflow</h1>
+I"�=<h1 class="fs-8" id="ai-in-the-research-workflow">AI in the Research Workflow</h1>
 
 <p class="fs-5 fw-300">Artificial Intelligence tools offer a lot of opportunities for helping with research. They also come with complicated risks. Understanding how and when to use these tools and creating a plan can help you research on the cutting edge without going over the edge.</p>
 
@@ -87,15 +87,13 @@ One important distinction to note within UW policy and the world of AI in genera
 </blockquote>
 
 <h2 id="departmental--program-policies">Departmental &amp; Program Policies</h2>
-<p>Some academic departments and programs may also have their own policies with respect to how AI can be used in different contexts. Make sure to check and see what, if any, policies may apply to you or your work.</p>
 
 <h2 id="specific-faculty-policies-and-expectations">Specific Faculty Policies and Expectations</h2>
-<p>While your academic department or program may or may not have specific policies about AI use, the faculty with whom you work will likely have their own beliefs about what constitutes ethical and appropriate use of AI in different context. Be sure to communicate about when and how you are plan to use AI (the AI research management plan can help facilitate this conversation).</p>
 
 <h2 id="data--resource-licenses">Data &amp; Resource Licenses</h2>
-<p>In addition to specific policies regulating what tasks you can perform with AI, there are also often material-specific policies about how you can apply AI to specific data or documents.</p>
 
 <h2 id="disciplinary-norms">Disciplinary Norms</h2>
+
 <p>One important potential consideration is understanding how the utilization of different AI tools is understood in the context of your discipline and work. Using an AI coding tool to help setup a workflow for transcribing documents may be completely acceptable for a historian while these tools might not be considered appropriate in the context of computer science.</p>
 
 <p>One potential play to start in understanding the emerging professional practices in your disciplines is to review any guidance put out my your professional organization. Examples of this include:</p>
@@ -104,9 +102,14 @@ One important distinction to note within UW policy and the world of AI in genera
 </ul>
 
 <h2 id="ai-disclosure-statements">AI Disclosure Statements</h2>
+
 <p>Many publishers are increasingly have policies specifying the permissable use of AI in for use in research outputs that they publish. Publishers are also increasingly requiring the submission of AI disclosure statements that specify how AI was used in the completion of a research project.</p>
 
-<p>Some of these requirements are very general, such as that for <em>PMLA</em>, which simply states that “Authors must fully cite in the manuscript, at submission, their use of all content (whether text, images, data, or other) created by an AI tool.” Others are much more detailed. It’s a good idea to review the AI disclosure statement requirements of any publisher to whom you might be considering submitting your work to</p>
+<p>Some of these requirements are very general, such as that for <em>PMLA</em>, which simply states that “Authors must fully cite in the manuscript, at submission, their use of all content (whether text, images, data, or other) created by an AI tool.” Others are much more detailed. It’s a good idea to review</p>
+
+<ul>
+  <li><a href="https://academic-oup-com.ezproxy.library.wisc.edu/pages/for-authors/books/author-use-of-artificial-intelligence?login=true&amp;token=eyJhbGciOiJub25lIn0.eyJleHAiOjE3Nzc5MDk3MjUsImp0aSI6IjA0ZTQzZjFjLTQ1YWYtNDhkOS1hOGE4LWQyOGUwN2MwYzdhNyJ9.">Oxford University Press AI Usage and Disclosure Processes</a></li>
+</ul>
 
 <hr />
 
@@ -177,8 +180,9 @@ One important distinction to note within UW policy and the world of AI in genera
   <li><a href="https://hcommons.org/">Humanities Commons</a> — community discussions about AI and the humanities</li>
   <li><a href="https://ach.org/">ACH (Association for Computers and the Humanities)</a> — professional community engaging with digital tools</li>
   <li><a href="https://researchguides.library.wisc.edu/GenerativeAI">UW–Madison Libraries Guide on Generative AI</a>—Guidance on using LLMs and other Generative AI tools at UW–Madison</li>
-  <li><a href="https://crln.acrl.org/index.php/crlnews/article/view/26548/34482">The Artificial Intelligence Disclosure (AID) Framework</a>—Framework for thinking through where AI can be used for specific research tasks</li>
+  <li><a href="https://researchguides.library.wisc.edu/GenerativeAI">The Artificial Intelligence Disclosure (AID) Framework</a>—Framework for thinking through where AI can be used for specific research tasks</li>
 </ul>
 
 <!-- TODO: Replace placeholder links with your institution's specific AI policies -->
 <!-- TODO: Add any discipline-specific AI guidelines (AHA, MLA, etc.) -->
+:ET
