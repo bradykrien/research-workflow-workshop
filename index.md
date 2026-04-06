@@ -53,9 +53,9 @@ Pick the guide that matches the problem you most want to solve right now:
 
 ## Workshop Format
 
-**Part 1 (45 min):** Presentation — we'll walk through the research workflow framework, see each tool in action, and discuss how AI fits into humanistic research.
+**Part 1 (35-40 min):** Presentation — we'll walk through the research workflow framework, see each tool in action, and discuss how AI fits into humanistic research.
 
-**Part 2 (45 min):** Hands-on implementation — pick one tool, follow the getting-started guide, and start building your system. 1-on-1 support is available.
+**Part 2 (50-55 min):** Hands-on implementation — pick one tool, follow the getting-started guide, and start building your system. 1-on-1 support is available.
 
 ---
 
