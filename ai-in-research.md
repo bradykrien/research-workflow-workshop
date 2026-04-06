@@ -39,7 +39,7 @@ AI tools (large language models like ChatGPT, Claude, Gemini, and others) can su
 |:------|:----------------|
 | **Search** | Brainstorming search terms, suggesting adjacent fields to explore | 
 | **Collect** | Summarizing articles to decide what's worth reading closely | 
-| **Organize** | Drafting tag taxonomies, suggesting organizational structures | Low — you're still making the decisions |
+| **Organize** | Drafting tag taxonomies, suggesting organizational structures |
 | **Read & Analyze** | Exploring patterns in text, generating initial codes for qualitative data | 
 | **Write & Cite** | Drafting, editing, overcoming writer's block, checking translations  |
 
