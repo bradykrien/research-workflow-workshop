@@ -35,7 +35,7 @@ If you're already using Mendeley and it's working for you, keep going — the co
 
 ---
 
-## Get started (45-minute path)
+## Get started 
 
 ### 1. Install Mendeley (5 min)
 

@@ -28,24 +28,24 @@ A new article came out six months ago that's directly relevant to your dissertat
 | **Cost** | Free through your UW–Madison | Free |
 | **Setup time** | ~15-20 minutes | ~15-20 minutes |
 
-They complement each other well. BrowZine is journal-centric ("tell me when *American Historical Review* publishes something new"). Google Scholar is topic- and author-centric ("tell me when someone publishes on *digital labor in the Progressive Era*").
+These toosl complement each other. BrowZine is journal-centric ("tell me when *American Historical Review* publishes something new"). Google Scholar is topic- and author-centric ("tell me when someone publishes on *digital labor in the Progressive Era*").
 
-## What a strong monitoring setup looks like
+## What a potential monitoring setup looks like
 
 - **BrowZine** for the 5–8 journals you consider "must-read"
 - **Google Scholar alerts** for 3–5 specific topics and 5–10 key scholars
-- **A weekly routine** (15 min) where you scan what's come in and save anything important to Zotero
+- **A weekly/biweekly routine** (15 min) where you scan what's come in and save anything important to Zotero
 
 Each tool takes about 20 minutes to set up. **Start with whichever fits your workflow better and come back to the other if time allows.** You don't need both running today — getting one working well is a real win.
 
 ---
 
-## Path A: BrowZine (20 min)
+## Path A: BrowZine (~20 min)
 
 ### 1. Access BrowZine (3 min)
 
-- Go to [browzine.com](https://browzine.com/) or search your library's website for "BrowZine"
-- Sign in through your institution — BrowZine uses your library's subscriptions, so you need to authenticate
+- Go to [browzine.com](https://browzine.com/) or search your visit the UW–Madison Libraries [Browzine Guide](https://www.library.wisc.edu/browzine/)
+- Sign in with your netit — BrowZine uses the Libraries' subscriptions, so you need to authenticate
 - You can also download the BrowZine app for iOS or Android
 
 ### 2. Find your journals (10 min)
@@ -68,7 +68,7 @@ Each tool takes about 20 minutes to set up. **Start with whichever fits your wor
 
 ---
 
-## Path B: Google Scholar Alerts (20 min)
+## Path B: Google Scholar Alerts (~20 min)
 
 ### 1. Set up your Google Scholar profile (5 min)
 
@@ -102,19 +102,13 @@ Each tool takes about 20 minutes to set up. **Start with whichever fits your wor
 
 ---
 
-## Combining both tools
-
-A strong monitoring setup might look like:
-- **BrowZine** for the 5–8 journals you consider "must-read"
-- **Google Scholar alerts** for 3–5 specific topics and 5–10 key scholars
-- **A weekly routine** (15 min) where you scan what's come in and save anything important to Zotero
-
----
-
 ## Keep going
 
 - [BrowZine Help Center](https://thirdiron.com/browzine/) — official support
+- [UW–Madison Libraries Browzine Guide](https://www.library.wisc.edu/browzine/)
 - [Google Scholar Help](https://scholar.google.com/intl/en/scholar/help.html) — official documentation
+- [UW–Madison Libraries Google Scholar Profile Creation Guide](https://researchguides.library.wisc.edu/c.php?g=1098577&p=8011949)
 - Ask your subject librarian — they can help you identify the key journals in your specific area and may know about other alerting services your library offers
+- [UW–Madison Libraries Subject Guides](https://researchguides.library.wisc.edu/subjectguides)—Check out guides for specific subject areas to help identify potential journals that might be of interest. 
 
-<!-- TODO: Add link to your institution's BrowZine access page -->
+

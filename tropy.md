@@ -16,11 +16,11 @@ A free, open-source tool for organizing and describing your archival research ph
 
 Trying to keep track of archival materials can be a challenge. You came back from the archive with 600 photos on your phone or camera. They have meaningless filenames like `IMG_4392.jpg`. You sort of remember what's in them, but finding that one letter from 1847 means scrolling through hundreds of images. Tropy lets you organize, describe, and annotate those photos so you can actually *find* things.
 
-**Where it fits in the workflow:** Search → Collect → Organize → Read & Analyze → Write & Cite
+**Where it fits in the workflow:** Collect → Organize → Read & Analyze → Write & Cite
 
 ---
 
-## Get started (45-minute path)
+## Get started 
 
 ### 1. Install Tropy (3 min)
 

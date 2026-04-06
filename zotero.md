@@ -22,7 +22,7 @@ You're juggling PDFs in random folders, copying and pasting citation info into a
 
 ---
 
-## Get started (45-minute path)
+## Get started 
 
 ### 1. Install Zotero (5 min)
 
