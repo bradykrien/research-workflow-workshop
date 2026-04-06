@@ -35,13 +35,13 @@ Specifying these elements at the outset can help you identify guardrails for you
 
 AI tools (large language models like ChatGPT, Claude, Gemini, and others) can support several stages of the research workflow:
 
-| Stage | Possible AI uses | Caution level |
-|:------|:----------------|:--------------|
-| **Search** | Brainstorming search terms, suggesting adjacent fields to explore | Low — useful for expanding your horizon |
-| **Collect** | Summarizing articles to decide what's worth reading closely | Medium — summaries can miss nuance or fabricate details |
+| Stage | Possible AI uses |
+|:------|:----------------|
+| **Search** | Brainstorming search terms, suggesting adjacent fields to explore | 
+| **Collect** | Summarizing articles to decide what's worth reading closely | 
 | **Organize** | Drafting tag taxonomies, suggesting organizational structures | Low — you're still making the decisions |
-| **Read & Analyze** | Exploring patterns in text, generating initial codes for qualitative data | High — requires careful validation against sources |
-| **Write & Cite** | Drafting, editing, overcoming writer's block, checking translations | Medium to High — depends on how you use the output |
+| **Read & Analyze** | Exploring patterns in text, generating initial codes for qualitative data | 
+| **Write & Cite** | Drafting, editing, overcoming writer's block, checking translations  |
 
 > **WARNING!**
 > Determining what you can share with an LLM (data for analysis, articles for summary, etc.) is more complex than it looks at first glance. A good place to start is the [UW–Madison Generative AI Tools Guide](https://it.wisc.edu/generative-ai-services-uw-madison/), which offers information about which tools the university has licensed and the types of data or material that can be input into them. 
