@@ -26,7 +26,7 @@ A new article came out six months ago that's directly relevant to your dissertat
 | **What it does** | Browse and follow journals; get table-of-contents alerts | Get email alerts for new work by specific authors or on specific topics |
 | **Best for** | Following the key journals in your field | Tracking specific people, topics, or your own citation count |
 | **Cost** | Free through your UW–Madison | Free |
-| **Setup time** | ~10 minutes | ~10 minutes |
+| **Setup time** | ~15-20 minutes | ~15-20 minutes |
 
 They complement each other well. BrowZine is journal-centric ("tell me when *American Historical Review* publishes something new"). Google Scholar is topic- and author-centric ("tell me when someone publishes on *digital labor in the Progressive Era*").
 
