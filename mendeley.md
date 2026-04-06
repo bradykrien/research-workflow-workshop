@@ -80,7 +80,7 @@ Mendeley's built-in PDF reader lets you highlight and annotate directly:
 
 ## Tips for long-term success
 
-- **Use the Web Importer constantly.** Whenever you find a useful source in your browser, click the button. Two seconds of effort now saves significant reformatting later.
+- **Use the Web Importer.** Whenever you find a useful source in your browser, click the button. Two seconds of effort now saves significant reformatting later.
 - **Mendeley's PDF annotation is its strongest feature.** If you read a lot of PDFs, building a habit of highlighting and annotating directly in Mendeley means your notes stay linked to the source — no separate document to track down later.
 - **Keep an eye on metadata accuracy.** Mendeley's auto-extraction from PDFs is good but not perfect. Spot-check author names, years, and journal titles, especially for older or non-English sources.
 - **Check Zotero if you're starting to feel constrained.** The core concepts are the same and Zotero's browser connector tends to be more versatile. Switching is easier than it sounds — both tools can export in standard formats.
